@@ -1,0 +1,25 @@
+/* styles.css */
+.number1, .number3, .number5 {
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#number2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    color: blue;
+
+}
+
+.number3 {
+    font-size: 24px;
+
+}
+
+#number4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    font-size: 24px;
+    font: bold;
+}

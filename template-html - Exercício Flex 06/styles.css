@@ -1,0 +1,24 @@
+.flex-container {
+  display: flex;
+  height: 100px;
+}
+/* este seletor seleciona todas as divs dentro de
+  .flex-container */
+.flex-container .three {
+  background: peachpuff;
+  border: 4px solid brown;
+  flex: 1;
+}
+/* apenas div.two está selecionado aqui */
+.flex-container .two {
+  flex: 2;
+  background: peachpuff;
+  border: 4px solid brown;
+}
+
+.flex-container .one {
+  flex-shrink: 0;
+  width: 250px;
+  background: peachpuff;
+  border: 4px solid brown;
+}

@@ -1,0 +1,15 @@
+/* styles.css */
+
+.c1,.c2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 68px;
+
+}
+.c1 {
+    color: white;
+    background-color:black;
+}
+
+.c2 {
+    background-color: yellow;
+}

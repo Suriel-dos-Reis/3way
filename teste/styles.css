@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.left-links {
+    list-style: none;       /* remove as bolinhas */
+    padding: 0;
+    margin: 0;
+    display: flex;          /* coloca os itens em linha */
+    gap: 10px;              /* espaço entre os itens */
+}
+
+.left-links li {
+    color: gray;
+    font-size: 44px;
+}

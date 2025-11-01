@@ -1,0 +1,113 @@
+<!-- 3. Modelo do Santo Graal com Grid
+Agora que você tornou seu layout do Santo Graal responsivo, vamos nos divertir
+tornando-o um pouco mais complicado e adicionando alguns recursos. Você pode
+achar isso um pouco mais desafiador do que esperava. Você pode até ficar tentado
+a usar o Flexbox. Mas, para esta tarefa prática, tente descobrir como recriar esse
+modelo inteiro usando apenas Grid. Sinta-se à vontade para adicionar seu próprio
+conteúdo fictício ou estilo também!
+Dicas:
+● Para este exercício, você precisará adicionar alguns blocos de declaração
+CSS ao arquivo style.css. Examine o HTML para ver quais seletores e
+combinadores você pode usar;
+● Pegue o layout uma seção de cada vez;
+● Você não precisa adicionar ou alterar nada no HTML, mas será útil examinar
+os relacionamentos pai e filho entre os elementos;
+● Assim como no Flexbox, você pode centralizar facilmente um item
+transformando-o em uma grade;
+● Não se preocupe com o alongamento do elemento de imagem do espaço
+reservado ao redimensionar a janela do navegador. Isso será abordado nas
+aulas de responsividade.
+ -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS Grid</title>
+        <link rel="stylesheet" href="./styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="logo">Header Logo</div>
+                <div class="menu">
+                    <ul>
+                        <li>header link one</li>
+                        <li>header link two</li>
+                        <li>header link three</li>
+                        <li>header link four</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar">
+                <div class="photo">
+                    <p>placeholder for image</p>
+                </div>
+                <div class="side-content">Box 1</div>
+                <div class="side-content">Box 2</div>
+                <div class="side-content">Box 3</div>
+            </div>
+            <div class="nav">
+                <ul>
+                    <li>Latest Articles</li>
+                    <li>Most Views</li>
+                    <li>Featured</li>
+                </ul>
+            </div>
+            <div class="article">
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+                <div class="card">
+                    <p class="title">Article Title</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</p>
+                </div>
+            </div>
+            <div class="footer">
+                <p>Copyright © The Odin Project 2021</p>
+            </div>
+        </div>
+    </body>
+</html>

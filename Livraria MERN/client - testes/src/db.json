@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "title": "Conversas francas sobre o casamento",
+      "isbn": "d88dd99998526306146",
+      "author": "Elisaudo Sousa",
+      "description": "Construindo um relacionamento duradouro",
+      "published_date": "2011-05-06",
+      "publisher": "CPAD",
+      "id": "1"
+    },
+    {
+      "title": "Publiciade a linguagem da sedução",
+      "isbn": "8508057954",
+      "author": "Nelly Carvalho",
+      "description": "Como escrever texto publicitário de seduz",
+      "published_date": "2011-05-06",
+      "publisher": "Editora Ática",
+      "id": "2"
+    },
+    {
+      "title": "MUNDO DE SOFIA A ESCOLHA",
+      "isbn": "8571644756",
+      "author": "Jostein Gaarder",
+      "description": "Romance da história da filosofia",
+      "published_date": "2011-05-06",
+      "publisher": "Editora Universo",
+      "id": "3"
+    },
+    {
+      "id": "a3ae",
+      "title": "A fera",
+      "isbn": "A fera",
+      "author": "Suriel dos Reis",
+      "description": "A fera misteriosa",
+      "published_date": "0002-02-01",
+      "publisher": ""
+    },
+    {
+      "id": "7f49",
+      "title": "O sapo e a cobra",
+      "isbn": "O sapo e a cobra",
+      "author": "Suriel dos Reis",
+      "description": "O sapo e a cobra",
+      "published_date": "5000-05-01",
+      "publisher": "O sapo e a cobra"
+    }
+  ]
+}

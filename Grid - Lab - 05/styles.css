@@ -1,0 +1,58 @@
+.container{
+  display: inline-grid;
+  grid-template: 40px 40px 40px 40px / 40px 80px 40px ;
+  background-color: lightblue;
+  grid-template-areas: 
+  "one one one"
+  "two trhee four"
+  "five trhee six"
+  "five seven seven"
+}
+
+.room{
+  border: 1px solid;
+  font-size: 50%;
+  text-align: center;
+}
+
+#Cubo1{
+   grid-area: one;
+}
+
+#Cubo2{
+   grid-area: two;
+}
+
+#Cubo3{
+   grid-area: trhee;
+}
+
+#Cubo4{
+   grid-area: four;
+}
+
+#Cubo5{
+   grid-area: five;
+}
+
+#Cubo6{
+   grid-area: six;
+}
+
+#Cubo7{
+   grid-area: seven;
+}
+
+#Cubo1, #Cubo3, #Cubo5, #Cubo7{
+  background-color: orange;
+}
+
+#Cubo2, #Cubo4, #Cubo6{
+  background-color: green;
+}
+
+#Cubo1, #Cubo2, #Cubo3, #Cubo4, #Cubo5, #Cubo6, #Cubo7{
+  display: flex;
+  justify-content: center;
+  align-Items: center
+}

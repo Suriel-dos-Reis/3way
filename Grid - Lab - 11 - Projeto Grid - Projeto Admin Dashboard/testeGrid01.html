@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grid 3x4 com coluna destacada</title>
+  <style>
+    .container {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr); /* 4 colunas iguais */
+      grid-template-rows: repeat(3, 120px);  /* 3 linhas iguais */
+      gap: 10px;
+      width: 90%;
+      max-width: 900px;
+      margin: 20px auto;
+    }
+
+    .item {
+      background-color: #0f92c4;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 6px;
+    }
+
+    /* Coluna branca ocupando todas as linhas */
+    .coluna-branca {
+      background-color: white;
+      border: 2px solid #ccc;
+      grid-column: 2;     /* segunda coluna */
+      grid-row: 1 / span 4; /* ocupa da linha 1 até a 3 */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="item">1</div>
+    <div class="coluna-branca">Coluna 2</div>
+    <div class="item">3</div>
+    <div class="item">4</div>
+    <div class="item">5</div>
+    <div class="item">6</div>
+    <div class="item">7</div>
+    <div class="item">8</div>
+    <div class="item">9</div>
+    <div class="item">10</div>
+    <div class="item">11</div>
+    <div class="item">12</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: 75px 75px 75px;
+  grid-template-rows: 75px 75px 75px;
+  gap: 15px;
+}
+
+.card{
+  background-color: peachpuff;
+  border: 1px solid black
+
+}

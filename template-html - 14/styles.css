@@ -1,0 +1,14 @@
+.main-container {
+display: flex;
+height: 400px;
+flex-wrap: wrap;
+align-content: space-between;
+background-color: green;
+}
+.main-container div {
+background-color: #f4f4f4;
+width: 100px;
+margin: 10px;
+text-align: center;
+font-size: 50px;
+}

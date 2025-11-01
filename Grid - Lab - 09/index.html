@@ -1,0 +1,85 @@
+<!-- 3. Modelo do Santo Graal com Grid
+Agora que você tornou seu layout do Santo Graal responsivo, vamos nos divertir
+tornando-o um pouco mais complicado e adicionando alguns recursos. Você pode
+achar isso um pouco mais desafiador do que esperava. Você pode até ficar tentado
+a usar o Flexbox. Mas, para esta tarefa prática, tente descobrir como recriar esse
+modelo inteiro usando apenas Grid. Sinta-se à vontade para adicionar seu próprio
+conteúdo fictício ou estilo também!
+Dicas:
+● Para este exercício, você precisará adicionar alguns blocos de declaração
+CSS ao arquivo style.css. Examine o HTML para ver quais seletores e
+combinadores você pode usar;
+● Pegue o layout uma seção de cada vez;
+● Você não precisa adicionar ou alterar nada no HTML, mas será útil examinar
+os relacionamentos pai e filho entre os elementos;
+● Assim como no Flexbox, você pode centralizar facilmente um item
+transformando-o em uma grade;
+● Não se preocupe com o alongamento do elemento de imagem do espaço
+reservado ao redimensionar a janela do navegador. Isso será abordado nas
+aulas de responsividade.
+ -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS Grid</title>
+        <link rel="stylesheet" href="./styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                Header Logo
+                <nav style="margin-left: auto; display: flex; gap: 15px; font-size: 16px">
+                    <span>header link one</span>
+                    <span>header link two</span>
+                    <span>header link three</span>
+                    <span>header link four</span>
+                </nav>
+            </div>
+
+            <div class="sidebar">
+                <div class="box">placeholder for image</div>
+                <div class="box">Box 1</div>
+                <div class="box">Box 2</div>
+                <div class="box">Box 3</div>
+            </div>
+
+            <div class="latest">
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+            </div>
+
+            <div class="most">
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+            </div>
+
+            <div class="featured">
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+                <div class="article">
+                    <h3>Article Title</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+            </div>
+
+            <div class="footer">Copyright © The Odin Project 2021</div>
+        </div>
+    </body>
+</html>

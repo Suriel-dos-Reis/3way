@@ -1,0 +1,168 @@
+<!-- Grid - Projeto Admin Dashboard
+Agora que você já praticou bastante usando o Grid, vamos construir um
+design de painel completo. Para este projeto, use quaisquer ferramentas
+que você precise para fazê-lo, mas tente se apoiar no Grid para a maior
+parte do trabalho de layout. Volte pelas lições ou exercícios práticos se
+precisar de uma atualização.
+ -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS Grid</title>
+        <link rel="stylesheet" href="./styles.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="logo">Header Logo</div>
+                <div class="menuheader">
+                    <ul>
+                        <li>header link one</li>
+                        <li>header link two</li>
+                        <li>header link three</li>
+                        <li>header link four</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar">
+                <div class="logo"><i class="fa-solid fa-bolt"></i>&nbsp;Dashboard</div>
+                <div class="menu">
+                    <ul>
+                        <li><i class="fa-solid fa-house"></i> Home</li>
+                        <li><i class="fa-solid fa-user"></i> Profiles</li>
+                        <li><i class="fa-solid fa-envelope"></i> Messagens</li>
+                        <li><i class="fa-solid fa-clock-rotate-left"></i> History</li>
+                        <li><i class="fa-solid fa-list-check"></i> Tasks</li>
+                        <li><i class="fa-solid fa-users"></i> Communities</li>
+                        <li><i class="fa-solid fa-gear"></i> Settings</li>
+                        <li><i class="fa-solid fa-circle-question"></i> Suport</li>
+                        <li><i class="fa-solid fa-shield-halved"></i> Privacy</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <h1>Perfil de sistemas</h1>
+                <p>Sistemas ativos</p>
+                <div class="article">
+                    <div class="card">
+                        <p class="title">SIF</p>
+                        <p>Sistema financeiro integrado para gestão de contas, controle de fluxo de caixa, emissão de relatórios e análise de desempenho. Segurança, agilidade e precisão para decisões estratégicas e operacionais.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <p class="title">Cadastro de pessoas</p>
+                        <p>Sistema de cadastro eficiente para registro de pessoas, com coleta de dados, validação automática, organização por categorias e geração de relatórios. Agilidade, segurança e controle em um só lugar.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">Contabilidade</p>
+                        <p>Sistema de contabilidade completo para gestão fiscal, controle de receitas e despesas, emissão de balancetes e relatórios. Transparência, conformidade legal e eficiência para empresas de todos os portes.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">CadFis</p>
+                        <p>Sistema fiscal automatizado para cálculo de tributos, emissão de guias, controle de obrigações e conformidade legal. Reduza riscos, ganhe eficiência e mantenha sua empresa em dia com o fisco.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">Contas Médicas</p>
+                        <p>Sistema de contas médicas para gestão de faturamento, auditoria, repasse e integração com operadoras. Agilize processos, reduza erros e garanta controle financeiro eficiente na área da saúde.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">Sistema de faturamento</p>
+                        <p>Sistema de faturamento ágil para emissão de notas, controle de cobranças, integração com financeiro e geração de relatórios. Otimize processos, reduza erros e garanta eficiência na gestão comercial.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">Abertura de Ordem de Serviços</p>
+                        <p>Sistema de abertura de Ordens de Serviço para registro, acompanhamento e finalização de demandas. Agilidade, controle e organização para equipes técnicas, com histórico detalhado e notificações em tempo real.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <p class="title">Ordem de Serviços TI</p>
+                        <p>Sistema de abertura de chamados para TI com registro rápido, categorização por tipo de problema, acompanhamento em tempo real e notificações. Agilize o suporte técnico e melhore a gestão de incidentes.</p>
+                        <div class="icons">
+                            <!-- Estrelinhas para favorito -->
+                            <i class="fa-regular fa-star"></i>
+
+                            <!-- Ícone para abertura do sistema -->
+                            <i class="fa-solid fa-rocket" title="Abrir sistema"></i>
+
+                            <!-- Ícone de compartilhamento -->
+                            <i class="fa-solid fa-share-nodes" title="Compartilhar"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
