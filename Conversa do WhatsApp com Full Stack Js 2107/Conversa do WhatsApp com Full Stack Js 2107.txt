@@ -1,0 +1,4162 @@
+20/07/2025 18:15 - ‎3way Academy mudou a imagem deste grupo.
+20/07/2025 18:15 - ‎3way Academy criou o grupo "Full Stack Js 2107"
+20/07/2025 18:15 - ‎3way Academy adicionou você
+20/07/2025 18:18 - 3way Academy: Boa noite,
+20/07/2025 18:18 - 3way Academy: Sejam todos bem vindos ao curso Javascript Full Stack da 3way
+20/07/2025 18:18 - 3way Academy: O curso iniciará amanhã, dia 21/07.
+20/07/2025 18:18 - 3way Academy: As aulas serão às segundas e quartas, das 19:00 ás 21:00
+20/07/2025 18:19 - 3way Academy: O instrutor será nosso o Prof. Elisaudo
+20/07/2025 18:19 - +55 34 9263-9819: Muito obrigado Elisaudo
+20/07/2025 18:19 - 3way Academy: O link da sala virtual está da descrição do grupo, mas passo ela aqui também - https://us02web.zoom.us/j/83959909554
+20/07/2025 18:19 - 3way Academy: Vocês terão acesso à sala após o professor entrar.
+20/07/2025 18:19 - 3way Academy: Estamos aqui para proporcionar a vocês uma excelente experiência de aprendizado e para isso a opinião de vocês ao longo do curso é muito bem vinda para podermos aperfeiçoar no que for preciso.
+20/07/2025 18:19 - 3way Academy: ATENÇÃO:
+Para alinharmos o nosso propósito, este grupo é única e exclusivamente para assuntos relacionados ao nosso curso. Ok? Não sendo permitido nenhum material fora desse contexto. Conto com vocês.
+20/07/2025 18:19 - 3way Academy: Qualquer necessidade de falar com a 3way, favor entrar em contato pelo (62) 99245-1071
+20/07/2025 18:19 - 3way Academy: Ao final do curso, e atividades passadas pelo instrutor, este grupo será fechado.
+20/07/2025 18:20 - 3way Academy: Obrigado pela preferência e temos confiança no sucesso de todos vocês!!!
+20/07/2025 18:22 - 3way Academy: Ferramenta para Desenvolvimento – VS CODE
+
+Nós vamos utilizar o VS Code como ferramenta para programarmos durante o curso
+
+https://code.visualstudio.com/Download
+
+Extensões VSCode
+Color Highlight
+CSS Formatter
+ESLint
+Visual Studio IntelliCode
+Auto Rename Tag
+Prettier
+Live Server
+Material Icon Theme
+
+Essa é a instalação do VS Code, o IDE que será utilizado para programação no curso.
+20/07/2025 18:35 - ‎3way Academy mudou a descrição do grupo
+20/07/2025 18:37 - 3way Academy: Depois de instalá-lo, instale as extensões relacionadas acima.
+
+Qualquer dúvida, veja este vídeo do youtube - https://youtu.be/uxln1hT_Ev4
+21/07/2025 08:32 - Suriel Dos Reis: Bom dia!
+21/07/2025 08:33 - Suriel Dos Reis: <Mídia oculta>
+21/07/2025 08:33 - Suriel Dos Reis: Ou melhor eu fiquei sem saber qual instalar, Auto Rename Tag?
+21/07/2025 08:34 - Suriel Dos Reis: Este não apareceu para mim.
+21/07/2025 08:34 - Suriel Dos Reis: <Mídia oculta>
+21/07/2025 08:35 - Suriel Dos Reis: Este apareceram várias opções.
+21/07/2025 08:35 - Suriel Dos Reis: <Mídia oculta>
+21/07/2025 08:41 - 3way Academy: Bom dia,
+21/07/2025 08:41 - 3way Academy: Instala o do Jun Han
+21/07/2025 08:44 - 3way Academy: Instala o primeiro, com 59,1 M
+21/07/2025 08:46 - 3way Academy: Coloca na busca só IntelliCode e instala o de 56.6 M
+21/07/2025 17:01 - ‎3way Academy adicionou ~ DOUGLAS
+21/07/2025 19:36 - 3way Academy: curso full stack javascript
+21/07/2025 19:38 - 3way Academy: template-html
+21/07/2025 20:08 - 3way Academy: https://www.freecatphotoapp.com/
+21/07/2025 20:12 - 3way Academy: <Mídia oculta>
+21/07/2025 20:15 - 3way Academy: <Mídia oculta>
+21/07/2025 20:15 - 3way Academy: <Mídia oculta>
+21/07/2025 20:15 - 3way Academy: <Mídia oculta>
+21/07/2025 20:38 - +55 62 8435-5817: já retorno
+21/07/2025 20:41 - +55 62 8435-5817: estou sem internet já retorno
+21/07/2025 20:49 - 3way Academy: <Mídia oculta>
+21/07/2025 20:50 - 3way Academy: https://www.w3schools.com/
+21/07/2025 20:55 - 3way Academy: <Mídia oculta>
+21/07/2025 20:57 - +55 34 9263-9819: cai
+21/07/2025 21:01 - +55 62 8435-5817: pessoal não consegui retornar a tempo! até próxima aula
+21/07/2025 21:13 - 3way Academy: Amanhã cedo faço o upload da aula
+22/07/2025 09:18 - Suriel Dos Reis: Bom dia!
+22/07/2025 09:18 - Suriel Dos Reis: A aula fica gravada em qual plataforma.
+22/07/2025 09:31 - 3way Academy: Bom dia,
+22/07/2025 09:31 - 3way Academy: Faremos o upload no Youtube e enviaremos o link
+22/07/2025 13:11 - 3way Academy: Boa tarde, pessoal
+22/07/2025 13:12 - 3way Academy: Segue o link da aula 1 - https://youtu.be/ogMPSOOM__M
+23/07/2025 19:14 - +55 62 8435-5817: boa noite!!
+23/07/2025 19:14 - +55 62 8435-5817: teremos aula hoje?
+23/07/2025 19:18 - 3way Academy: Sim. Já estamos na sala
+23/07/2025 19:19 - +55 62 8435-5817: manda o link da sala pv
+23/07/2025 19:20 - 3way Academy: É o mesmo link até o final do curso. Está na descrição do grupo também
+23/07/2025 19:20 - 3way Academy: https://us02web.zoom.us/j/83959909554
+23/07/2025 19:22 - 3way Academy: Deu certo ai?
+23/07/2025 19:31 - 3way Academy: styles.css
+23/07/2025 19:48 - 3way Academy: https://developer.mozilla.org/en-US/
+23/07/2025 20:37 - 3way Academy: <Mídia oculta>
+24/07/2025 09:24 - 3way Academy: Bom dia, pessoal
+24/07/2025 09:24 - 3way Academy: Segue o link da aula 2 - https://youtu.be/PmIo3SljYPE
+24/07/2025 10:43 - +55 62 8435-5817: bom dia
+25/07/2025 17:16 - Suriel Dos Reis: Fala galera Full Stack, estou com essa dificuldade, mesmo informando: Tab Size 4, a formatação está usando o default.
+
+Se tiverem uma extensão mais apropriada com tabulação 4 gostaria de testar, estou usando o Prettier.
+
+Elisaudo, este foi sugerido por você, como é que configura ele?
+28/07/2025 18:37 - Suriel Dos Reis: Iai?
+28/07/2025 18:37 - 3way Academy: Boa noite,
+28/07/2025 18:37 - Suriel Dos Reis: Aula hoje?
+28/07/2025 18:38 - 3way Academy: Sim. Toda segunda e quarta. Só não tem se for feriado
+28/07/2025 19:00 - +55 62 8435-5817: meu PC resolveu não funcionar hoje
+28/07/2025 19:00 - +55 62 8435-5817: não liga
+28/07/2025 19:00 - +55 62 8435-5817: estou tentando ressusitar ele aqui
+28/07/2025 19:00 - +55 62 8435-5817: conseguindo entro na sala
+28/07/2025 19:01 - Reis Guilherme 3way: Testa a fonte
+28/07/2025 19:01 - +55 62 8435-5817: já tentei tb e até a bateria já tirei
+28/07/2025 19:01 - +55 62 8435-5817: ele começa a funcionar e pára
+28/07/2025 19:02 - Reis Guilherme 3way: É note?
+28/07/2025 19:02 - Reis Guilherme 3way: Veja se não tá cm problema no carregador dele
+28/07/2025 19:03 - +55 62 8435-5817: <Mídia oculta>
+28/07/2025 19:03 - +55 62 8435-5817: fica assim e depois desliga
+28/07/2025 19:04 - +55 62 8435-5817: tô achando que pode ser o windows, ele teve uma atualização e depois dela ficou com esse comportamento
+28/07/2025 19:04 - Reis Guilherme 3way: Entra na BIOS dele
+28/07/2025 19:20 - 3way Academy: <div class="azul">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis ipsum, id incidunt ullam cum ducimus.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis ipsum, id incidunt ullam cum ducimus.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis ipsum, id incidunt ullam cum ducimus.
+        Lorem ipsum dolor sit, amet consectetur 
+    </div>
+28/07/2025 19:46 - 3way Academy: <Mídia oculta>
+28/07/2025 19:46 - 3way Academy: <Mídia oculta>
+28/07/2025 20:26 - +55 62 8435-5817: pessoal, ainda estou com problemas técnicos aqui
+28/07/2025 20:28 - +55 62 8435-5817: nos vemos na próxima aula
+28/07/2025 20:29 - +55 62 8435-5817: professor Elisaudo, assistirei a aula de hoje e concluirei os exercícios ok?
+28/07/2025 20:32 - 3way Academy: Ok. Qualquer dúvida estarei a disposição
+29/07/2025 12:04 - 3way Academy: Bom dia, pessoal
+29/07/2025 12:04 - 3way Academy: Segue o link da aula 3 - https://youtu.be/CIz0k92vCVE
+29/07/2025 12:22 - Suriel Dos Reis: Elisaudo, obrigado pelo link.
+
+Ontem na aula você ficou de me enviar um material de html, nos conversávamos de geração de páginas html, e tbm de configuração do VS Code, referente a identação do código. <Mensagem editada>
+29/07/2025 12:24 - Suriel Dos Reis: Aproveito a oportunidade para verificar se há como conferir a sintaxe do html, coisa como o fechamento de tags.
+29/07/2025 13:35 - +55 62 8435-5817: boa tarde a todos!
+29/07/2025 13:38 - +55 62 8435-5817: @⁨Suriel Dos Reis⁩ para validar a sintaxe do HTML eu utilizo um validador online que é o W3C que faz a análise do código HTML
+29/07/2025 13:38 - +55 62 8435-5817: mas existem outros
+29/07/2025 13:39 - +55 62 8435-5817: outra opção que costumo fazer é inspecionar direto pelo console
+29/07/2025 13:39 - +55 62 8435-5817: espero ter ajudado
+29/07/2025 13:50 - +55 62 8435-5817: pesquisei aqui, vc pode tb instalar a extenção HTML links Checker
+29/07/2025 13:52 - Suriel Dos Reis: Você testou esse?
+29/07/2025 13:52 - +55 62 8435-5817: somente o W3C
+30/07/2025 19:02 - Suriel Dos Reis: Vamu?
+30/07/2025 19:04 - 3way Academy: Só falta você
+30/07/2025 19:05 - Suriel Dos Reis: To entrando
+30/07/2025 19:05 - Suriel Dos Reis: Minutinho
+30/07/2025 19:23 - 3way Academy: EXERCÍCIO 7 - CSS
+
+index.html
+
+    <div class="card">
+        <h1 class="title">I'm a card</h1>
+        <div class="content">I have content inside me..lorem ipsum blah blah
+            blah. Here's some stuff you need to read.</div>
+        <div class="button-container">and a <br> <button>BIG BUTTON</button></div>
+    </div>
+30/07/2025 19:24 - 3way Academy: styles.css
+
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+ 
+  .card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+  }
+ 
+  .title {
+    background: #e3f4ff;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    padding: 8px;
+    font-size: 16px;
+  }
+ 
+  .content {
+    background: #e3f4ff;
+    margin-bottom: 8px;
+    padding: 16px 8px;
+  }
+ 
+  .button-container {
+    background: #e3f4ff;
+    text-align: center;
+    padding: 8px;
+  }
+ 
+  button {
+    background: white;
+    border: 1px solid #eee;
+    padding: 8px 24px;
+  }
+30/07/2025 19:25 - 3way Academy: <Mídia oculta>
+30/07/2025 19:53 - 3way Academy: Mensagem apagada
+30/07/2025 19:54 - 3way Academy: <div class="container">
+      <div class="item-flex">Item1</div>
+      <div class="item-flex">Item2</div>
+      <div class="item-flex">Item3</div>
+      <div class="item-flex">Item4</div>
+      <div class="item-flex">Item5</div>
+    </div>
+30/07/2025 20:19 - 3way Academy: <div class="threeway_flex">
+      <div>Item 1</div>
+      <div>Item 2</div>
+      <div>Item 3</div>
+      <div>Item 4</div>
+      <div>Item 5</div>
+      <div>Item 6</div>
+      <div>Item 7</div>
+      <div>Item 8</div>
+      <div>Item 9</div>
+    </div>
+30/07/2025 20:19 - 3way Academy: .threeway_flex {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: green;
+  text-align: center;
+}
+.threeway_flex > div {
+  background-color: #f4f4f4;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  font-size: 40px;
+}
+30/07/2025 20:32 - 3way Academy: <div class="container">
+      <div class="item"></div>
+      <div class="item"></div>
+      <div class="item"></div>
+    </div>
+30/07/2025 20:32 - 3way Academy: .container {
+  height: 140px;
+  padding: 16px;
+  background: plum;
+  border: 4px solid indigo;
+  display: flex;
+}
+.item {
+  width: 60px;
+  height: 60px;
+  border: 4px solid darkslategray;
+  background: skyblue;
+}
+30/07/2025 20:36 - 3way Academy: <Mídia oculta>
+30/07/2025 20:37 - 3way Academy: <Mídia oculta>
+30/07/2025 20:37 - 3way Academy: <Mídia oculta>
+30/07/2025 20:38 - 3way Academy: #f9ca9c
+30/07/2025 20:38 - 3way Academy: #ffe59a
+30/07/2025 21:00 - 3way Academy: <Mídia oculta>
+31/07/2025 09:18 - 3way Academy: Bom dia, pessoal
+31/07/2025 09:18 - 3way Academy: Segue o link da aula 4 - https://youtu.be/edtw-X96yvs
+31/07/2025 09:28 - 3way Academy: Segue um excelente site para exercitar os comandos de Flexbox, bem lúdico - https://flexboxfroggy.com/
+04/08/2025 16:29 - ‎3way Academy adicionou Messias Neto Colega 3Way Full Stack JavaScript
+04/08/2025 19:06 - 3way Academy: Colorzilla - extensão Chrome
+04/08/2025 20:55 - +55 62 8435-5817: <Mídia oculta>
+05/08/2025 08:48 - 3way Academy: Bom dia, pessoal
+05/08/2025 08:48 - 3way Academy: Segue o link da aula 5 - https://youtu.be/j-C7FeuP9Vc
+06/08/2025 19:04 - +55 62 8435-5817: olá pessoal boa noite
+06/08/2025 19:04 - +55 62 8435-5817: ainda estou no trabalho e se der tempo acessarei a aula quando chegar
+06/08/2025 19:05 - +55 62 8435-5817: tá um pouco corrido
+06/08/2025 19:19 - +55 34 9263-9819: Começa agora as 20?
+06/08/2025 19:19 - 3way Academy: Já estamos em aula. Sempre ás segundas e quartas, das 19 ás 21
+06/08/2025 19:29 - +55 62 8435-5817: estou no exercício 3 da lista
+06/08/2025 19:32 - 3way Academy: <Mídia oculta>
+06/08/2025 19:33 - +55 62 8435-5817: esse é tenso
+06/08/2025 19:33 - +55 62 8435-5817: tô nele
+06/08/2025 19:49 - 3way Academy: <Mídia oculta>
+06/08/2025 19:57 - 3way Academy: <div class="header">
+      <div class="left">
+        <div class="logo">LOGO</div>
+        <ul class="links">
+          <li><a href="google.com">link-one</a></li>
+          <li><a href="google.com">link-two</a></li>
+          <li><a href="google.com">link-three</a></li>
+        </ul>
+      </div>
+      <div class="right">
+        <button class="notifications">1 nova notificação</button>
+        <div class="profile-image"></div>
+      </div>
+    </div>
+06/08/2025 19:58 - 3way Academy: /* esta é uma importação mágica de fontes.
+ você aprenderá sobre isso mais tarde. */
+@import url("https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap");
+body {
+  margin: 0;
+  background: #eee;
+  font-family: Besley, serif;
+}
+.header {
+  background: white;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.profile-image {
+  background: rebeccapurple;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+}
+.logo {
+  color: rebeccapurple;
+  font-size: 32px;
+  font-weight: 900;
+  font-style: italic;
+}
+button {
+  border: none;
+  border-radius: 8px;
+  background: rebeccapurple;
+  color: white;
+  padding: 8px 24px;
+}
+a {
+  /* isso remove a linha sob nossos links */
+  text-decoration: none;
+  color: rebeccapurple;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 16px;
+}
+06/08/2025 20:08 - 3way Academy: <Mídia oculta>
+06/08/2025 20:32 - 3way Academy: <div class="container">
+      <div class="title">Informação!</div>
+      <div class="cards">
+        <div class="card">
+          <img src="./images/barberry.png" alt="barberry" />
+          <div class="text">Este é um tipo de planta. Nós amamos este.</div>
+        </div>
+        <div class="card">
+          <img src="./images/chilli.png" alt="chili" />
+          <div class="text">Este é outro tipo de planta. Não é legal?</div>
+        </div>
+        <div class="card">
+          <img src="./images/pepper.png" alt="pepper" />
+          <div class="text">Temos tantas plantas. Eba plantas.</div>
+        </div>
+        <div class="card">
+          <img src="./images/saffron.png" alt="saffron" />
+          <div class="text">
+            Estou ficando sem coisas para dizer sobre plantas.
+          </div>
+        </div>
+      </div>
+    </div>
+06/08/2025 20:32 - 3way Academy: body {
+  font-family: "Courier New", Courier, monospace;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.title {
+  font-size: 36px;
+  font-weight: 900;
+  margin: auto;
+  padding-bottom: 60px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.card {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* não edite este rodapé */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eee;
+}
+06/08/2025 20:41 - 3way Academy: <Mídia oculta>
+07/08/2025 17:58 - 3way Academy: Boa noite, pessoal
+07/08/2025 17:58 - 3way Academy: Segue o link da aula 6 - https://youtu.be/QdkoB0TJ5Y8
+07/08/2025 18:16 - Suriel Dos Reis: Elisaudo, qual o tempo que os vídeos ficarão disponíveis neste repositório do youtube?
+07/08/2025 18:17 - 3way Academy: Enquanto o Youtube permitir. Creio que não há prazo definido
+08/08/2025 09:21 - +55 62 8435-5817: bom dia a todos!! Pessoal, conferindo os exercícios vi algo estranho:
+08/08/2025 09:22 - +55 62 8435-5817: <Mídia oculta>
+08/08/2025 09:22 - +55 62 8435-5817: <Mídia oculta>
+08/08/2025 09:23 - 3way Academy: Deve ser algum bug no VS pois os nossos funcionou de acordo
+08/08/2025 09:23 - 3way Academy: Veja se sem o CSS a escrita está correta
+08/08/2025 09:24 - +55 62 8435-5817: deve ser!!
+08/08/2025 09:25 - 3way Academy: Deve ser o português de portugal. rsr
+08/08/2025 09:33 - +55 62 8435-5817: é navegador!!! tava exectuando no edge
+08/08/2025 09:34 - +55 62 8435-5817: como alterar para o chorme usando live server?
+08/08/2025 09:35 - 3way Academy: Configura o Chrome como padrão
+08/08/2025 11:04 - +55 62 8435-5817: Estou tentando separar os links sem sucesso
+08/08/2025 11:04 - +55 62 8435-5817: @⁨3way Academy⁩ consegue me orientar onde estou errando?
+08/08/2025 11:42 - +55 62 8435-5817: consegui!!
+08/08/2025 13:48 - +55 62 8435-5817: professor: não consegui adicionar as fontes do 3 exercício
+08/08/2025 13:48 - +55 62 8435-5817: estou fazendo de outra foram para funcionar
+08/08/2025 14:51 - 3way Academy: Ok. Lembrando que todo o design deve ser feito somente com FLEXBOX
+08/08/2025 14:51 - 3way Academy: As fontes estavam dando problema devido a fato do link do CSS estar quebrado ao fazer ao copiar e colar
+08/08/2025 14:52 - +55 62 8435-5817: consegui corrigir e funcionou
+08/08/2025 14:52 - 3way Academy: Basta tirar os espaços em branco no final da linha quebrada do import
+08/08/2025 14:52 - +55 62 8435-5817: veja o css como ficou
+08/08/2025 14:52 - +55 62 8435-5817: /* latin-ext */
+@font-face {
+    font-family: 'Besley';
+    font-style: italic;
+    font-weight: 900;
+    src: url(https://fonts.gstatic.com/s/besley/v21/PlIjFlO1MaNwaNG8WR2J-IiUAH-_aH6CCJBSGduh0-E.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+    font-family: 'Besley';
+    font-style: italic;
+    font-weight: 900;
+    src: url(https://fonts.gstatic.com/s/besley/v21/PlIjFlO1MaNwaNG8WR2J-IiUAH-_aH6CCJBSF9uh.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+body {
+    margin: 0;
+    background: #eee;
+    font-family: Besley, serif;
+}
+
+.header {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    background: white;
+    border-bottom: 1px solid #ddd;
+    /*box-shadow: 0 0 8px rgba(0, 0, 0, .1);*/
+}
+
+.logo {
+
+    justify-content: start;
+    color: rebeccapurple;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+    padding-right: 10px;
+
+}
+
+.nav-links {
+    display: flex;
+    align-items: start;
+    list-style-type: none;
+    gap: 16px;
+    padding: 0;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rebeccapurple;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.rigth-section {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.notification {
+    border: none;
+    border-radius: 8px;
+    background: rebeccapurple;
+    color: white;
+    padding: 8px 16px;
+    font-family: inherit;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.profile-image {
+    background: rebeccapurple;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, .5);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+}
+
+
+
+button {
+    border: none;
+    border-radius: 8px;
+    background: rebeccapurple;
+    color: white;
+    padding: 8px 24px;
+}
+08/08/2025 14:52 - +55 62 8435-5817: correto?
+08/08/2025 14:54 - 3way Academy: Faça a correção do link quebrado pra ver o que acontece
+08/08/2025 14:54 - 3way Academy: Fica bem simples e aderente ao exercício
+08/08/2025 14:55 - +55 62 8435-5817: fora isso está correto, certo?
+08/08/2025 14:55 - +55 62 8435-5817: vou ajustar
+08/08/2025 14:56 - 3way Academy: temos que chegar no resultado desejado que aparece no exercício. Veja se a tela final ficou semelhante
+08/08/2025 14:58 - 3way Academy: Tem alguns exercícios que o HTML tem que ser modificado. Igual fizemos nas vídeos aulas. Antes de aplicar o Flexbox
+08/08/2025 14:58 - +55 62 8435-5817: este por exemplo, precisei alterar
+08/08/2025 14:59 - 3way Academy: Esse é o exercício 2 ou o 3?
+08/08/2025 15:12 - +55 62 8435-5817: 3
+08/08/2025 15:13 - 3way Academy: Tem alteração no CSS
+08/08/2025 15:13 - 3way Academy: HTML
+08/08/2025 15:16 - +55 62 8435-5817: este o HTML:
+<body>
+
+    <div class="header">
+        <div class="logo">
+            LOGO
+        </div>
+        <ul class="nav-links">
+            <li><a href="https://google.com/">link-one</a></li>
+            <li><a href="google.com">link-two</a></li>
+            <li><a href="google.com">link-three</a></li>
+        </ul>
+        <div class="rigth-section">
+            <button class="notification">
+                1 Notificação
+            </button>
+            <div class="profile-image"></div>
+        </div>
+    </div>
+</body>
+08/08/2025 15:16 - +55 62 8435-5817: estou ajustando os links tb
+11/08/2025 19:05 - 3way Academy: <div class="flex-container">
+      <div class="one"></div>
+      <div class="two"></div>
+      <div class="three"></div>
+    </div>
+11/08/2025 19:14 - 3way Academy: .flex-container {
+  display: flex;
+}
+
+.flex-container div {
+  background-color: peachpuff;
+  border: 4px solid brown;
+  height: 100px;
+  flex: 1;
+  /*flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0;*/
+}
+11/08/2025 19:19 - 3way Academy: .flex-container {
+  display: flex;
+}
+
+.flex-container div {
+  background-color: peachpuff;
+  border: 4px solid brown;
+  height: 100px;
+  flex: 1;
+}
+
+.flex-container .two {
+  flex: 3;
+}
+
+.flex-container .three {
+  flex: 2;
+}
+11/08/2025 19:22 - 3way Academy: .flex-container {
+  display: flex;
+  height: 100px;
+}
+/* este seletor seleciona todas as divs dentro de
+  .flex-container */
+.flex-container .three {
+  background: peachpuff;
+  border: 4px solid brown;
+  flex: 1;
+}
+/* apenas div.two está selecionado aqui */
+.flex-container .two {
+  flex: 2;
+  background: peachpuff;
+  border: 4px solid brown;
+}
+
+.flex-container .one {
+  flex-shrink: 0;
+  width: 250px;
+  background: peachpuff;
+  border: 4px solid brown;
+}
+11/08/2025 19:25 - 3way Academy: <div class="container">
+      <div class="item">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      </div>
+    </div>
+11/08/2025 19:31 - 3way Academy: .container {
+  background-color: blue;
+  display: flex;
+  height: 200px;
+}
+
+
+.item {
+  background-color: brown;
+  margin: 10px;
+  flex: 1;
+}
+11/08/2025 20:07 - 3way Academy: EXERCICIO 7 - HTML
+11/08/2025 20:07 - 3way Academy: <div class="header">MEU MARAVILHOSO WEBSITE</div>
+    <div class="main">
+      <div class="sidebar">
+        <ul>
+          <li><a href="#"> ⭐-link um</a></li>
+          <li><a href="#"> 󰭃-link dois</a></li>
+          <li><a href="#"> 🖌-link três</a></li>
+          <li><a href="#"> 󰗡-link quatro</a></li>
+        </ul>
+      </div>
+      <div class="cards">
+        <div class="card">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora,
+          eveniet? Dolorem dignissimos maiores non delectus possimus dolor nulla
+          repudiandae vitae provident quae, obcaecati ipsam unde impedit
+          corrupti veritatis minima porro?
+        </div>
+        <div class="card">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi
+          quaerat qui iure ipsam maiores velit tempora, deleniti nesciunt fuga
+          suscipit alias vero rem, corporis officia totam saepe excepturi odit
+          ea.
+        </div>
+        <div class="card">
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis illo
+          ex quas, commodi eligendi aliquam ut, dolor, atque aliquid iure nulla.
+          Laudantium optio accusantium quaerat fugiat, natus officia esse autem?
+        </div>
+        <div class="card">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Necessitatibus nihil impedit eius amet adipisci dolorum vel nostrum
+          sit excepturi corporis tenetur cum, dolore incidunt blanditiis. Unde
+          earum minima laboriosam eos!
+        </div>
+        <div class="card">
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis illo
+          ex quas, commodi eligendi aliquam ut, dolor, atque aliquid iure nulla.
+          Laudantium optio accusantium quaerat fugiat, natus officia esse autem?
+        </div>
+        <div class="card">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Necessitatibus nihil impedit eius amet adipisci dolorum vel nostrum
+          sit excepturi corporis tenetur cum, dolore incidunt blanditiis. Unde
+          earum minima laboriosam eos!
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">O Meu Projeto ❤</div>
+11/08/2025 20:07 - 3way Academy: EXERCÍCIO 7 - CSS
+11/08/2025 20:07 - 3way Academy: body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  gap: 30px;
+  flex: 1;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header {
+  height: 72px;
+  background: darkmagenta;
+  color: white;
+}
+.footer {
+  height: 72px;
+  background: #eee;
+  color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sidebar {
+  width: 300px;
+  background: royalblue;
+  flex-shrink: 0;
+  font-size: 24px;
+  padding: 16px;
+}
+.card {
+  border: 1px solid #eee;
+  box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
+  border-radius: 4px;
+  width: 250px;
+  padding: 16px;
+  margin: 16px;
+}
+11/08/2025 20:10 - 3way Academy: <Mídia oculta>
+11/08/2025 20:11 - 3way Academy: https://paletadecores.com/
+12/08/2025 10:14 - 3way Academy: Bom dia, pessoal
+12/08/2025 10:14 - 3way Academy: Segue o link da aula 7 - https://youtu.be/XJjMV3Ncz9k
+13/08/2025 10:28 - +55 62 8435-5817: bom dia a todos
+13/08/2025 10:28 - 3way Academy: Bom dia,
+13/08/2025 10:30 - +55 62 8435-5817: professor: o poderia verificar onde este errando no código do exercício 6?
+*HTML:*
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício_06</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="header">
+        <ul class="left-links">
+            <li><a href="#">Quem Somos</a></li>
+            <li><a href="#">Loja</a></li>
+
+        </ul>
+        <ul class="right-links">
+            <li><a href="#">Perfil</a></li>
+            <li><a href="#">Configuração</a></li>
+        </ul>
+
+    </div>
+
+    <div class="content">
+        <img src="./Logo.png" alt="Project logo. Represents odin with the project name.">
+    </div>
+
+    <div class="input">
+        <input type="text">
+    </div>
+
+    <div class="buttons">
+        <button>Faça alguma coisa</button>
+        <button>Faça outra coisa</button>
+    </div>
+
+    <div class="footer">
+        <ul class="left-links">
+            <li><a href="#">Anúncios</a></li>
+            <li><a href="#">Negócios</a></li>
+        </ul>
+        <ul class="right-links">
+            <li><a href="#">Privacidade</a></li>
+            <li><a href="#">Termos</a></li>
+        </ul>
+
+    </div>
+</body>
+
+</html>
+
+*CSS*
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    font-family: Roboto, sans-serif;
+}*/
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/*.header {
+    display: flex;
+    justify-content: start;
+}*/
+
+.header,
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+/*ul {
+    list-style-type: none;
+}*/
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 16px;
+}
+
+.left-links {
+    display: flex;
+    flex: 1 1 0;
+    margin: 10px;
+
+}
+
+.right-links {
+    display: flex;
+
+}
+
+/*a {
+    text-decoration: none;
+    margin: 10px;
+    color: gray;
+    font-size: 40px;
+}*/
+
+a {
+    text-decoration: none;
+    color: #666;
+    font-size: 16px;
+}
+
+/*.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}*/
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 32px;
+    /*novo*/
+}
+
+img {
+    width: 800px;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+
+
+}
+
+.text {
+    font-size: 50px;
+
+}
+
+/*.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}*/
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+/*button {
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 8px;
+    background: #eee;
+    padding: 5px 15px;
+    margin: 8px;
+    color: gray;
+    width: 240px;
+    height: 40px;
+}*/
+button {
+
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 8px;
+    background: #eee;
+    padding: 8px 16px;
+    color: #666;
+}
+
+.footer {
+    position: fixed;
+    background: #eee;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+13/08/2025 10:31 - +55 62 8435-5817: o alinhamento do input tá me dando trabalho
+13/08/2025 10:31 - +55 62 8435-5817: consegue verificar pv onde estou errando
+13/08/2025 10:34 - 3way Academy: coloca a classe content em display: flex, flex-direction: column e faça o alinhamento na horizontal
+13/08/2025 10:36 - 3way Academy: A classe content tem que ser o container do conteúdo do meio. Onde vão estar incluso como itens flex a logo, o input e os botões
+13/08/2025 10:37 - +55 62 8435-5817: vou ajustar <Mensagem editada>
+13/08/2025 10:47 - 3way Academy: Tira todos os flex colocados no input e buttons
+13/08/2025 11:07 - +55 62 8435-5817: vi que a div content estava sem a div final e não estava criando o bloco do meio corrigi e deu certo
+13/08/2025 11:07 - +55 62 8435-5817: <Mídia oculta>
+13/08/2025 11:48 - +55 62 8435-5817: agora é o projeto!!!
+13/08/2025 19:11 - +55 62 8435-5817: Boa noite pessoal! Ainda estou no trabalho! Assim que chegar em casa eu entro na sala ok!? <Mensagem editada>
+13/08/2025 19:33 - 3way Academy: https://codepen.io/
+13/08/2025 20:56 - 3way Academy: <Mídia oculta>
+13/08/2025 20:57 - 3way Academy: // Regras para se escrever o nome de uma variável
+
+// 1 - Pode começar com letras, $ ou _ . Ex. nome, $valor, _idade; 
+// 2 - E só pode ter letra, $, números e _;
+// 3 - Não pode começar com números;
+// 4 - Ela é sensitive-case. xpos <> XPOS <> Xpos <> xPoS
+// 5 - Sempre colocar nome que tem a ver com o contexto:
+       xyz => leiteIntegral, leiteResfriadoPasteurizado
+// 6 - nomenclatura camelCase
+14/08/2025 11:14 - Suriel Dos Reis: Mestre Elisaudo, bom dia!
+
+Saudações Esmeraldinas.
+
+Assim que possível valide a imagem abaixo , aceito sugestões e criticas.
+
+Eu de certa forma ainda tenho dificuldades em estabelecer as classes.
+
+Certo do seu pronto atendimento, agradeço.
+
+Aos colegas um bom dia de trabalho.
+14/08/2025 11:15 - Suriel Dos Reis: <Mídia oculta>
+14/08/2025 11:42 - 3way Academy: Bom dia, pessoal
+14/08/2025 11:42 - 3way Academy: Segue o link da aula 8 - https://youtu.be/KHmgJGhv-To
+14/08/2025 12:14 - 3way Academy: Segue sugestão para  como criar nomes das classes
+14/08/2025 12:15 - 3way Academy: <Mídia oculta>
+18/08/2025 18:34 - Suriel Dos Reis: Iai meu povo, aula normal no mesmo horário?
+18/08/2025 18:59 - 3way Academy: Já estamos na sala
+18/08/2025 19:58 - 3way Academy: Mensagem apagada
+19/08/2025 11:08 - 3way Academy: Pessoal segue site com logomarcas para simulação
+19/08/2025 11:08 - 3way Academy: https://logoipsum.com/
+20/08/2025 17:48 - Suriel Dos Reis: Iai turma ? Tudo beleza? Elisaudo confirmado a aula hoje?
+20/08/2025 17:50 - 3way Academy: Sempre confirmado. Em caso de  alguma eventualidade sempre tentaremos avisar com antecedência a falta de aula.
+20/08/2025 19:02 - 3way Academy: <Mídia oculta>
+20/08/2025 19:14 - +55 62 8435-5817: let valorPorcas, valorParafusos, valorArruelas, nomeCliente, numeroPorcas, numeroParafusos, numeroArruelas, ValorCompraPorcas, valorCompraParafusos, valorCompraArruelas, valorTotalCompra, totalSemDesconto, valorTotalDesconto;
+
+valorPorcas = 100;
+valorParafusos = 200;
+valorArruelas = 300;
+
+descontoPorcas = 10;
+descontoParafusos = 20;
+descontoArruelas = 30;
+
+nomeCliente = (prompt("Informe o nome do cliente: "));
+console.log("Nome do cliente: " + nomeCliente);
+numeroPorcas = Number(prompt("Informe a quantidade de Porcas: "));
+numeroParafusos = Number(prompt("Informe a quantidade de Parafusos: "));
+numeroArruelas = Number(prompt("Informe a quantidade de Arruelas: "));
+
+valorTotalPorcas = (valorPorcas * numeroPorcas);
+valorDescontoPorcas = (valorTotalPorcas * descontoPorcas / 100);
+valorCompraPorcas = valorTotalPorcas - valorDescontoPorcas;
+
+valorTotalParafusos = (valorParafusos * numeroParafusos); 
+valorDescontoParafusos = (valorTotalParafusos * descontoParafusos / 100);
+valorCompraParafusos = valorTotalParafusos - valorTotalParafusos;
+
+valorTotalArruelas = (valorArruelas * numeroArruelas);
+valorDescontoArruelas = (valorTotalArruelas * descontoArruelas / 100);
+valorCompraArruelas = valorTotalArruelas - valorDescontoArruelas;
+
+valorTotalCompra = valorCompraPorcas + valorCompraParafusos + valorCompraArruelas;
+valorTotalDesconto = valorDescontoPorcas + valorDescontoParafusos + valorDescontoArruelas;
+
+console.log("O número de Porcas é: " + numeroPorcas);
+console.log("O número de Parafusos é: " + numeroParafusos);
+console.log("O número de Arruelas é: " + numeroArruelas);
+
+console.log("O valor da venda de Porcas com Desconto é: " + valorDescontoPorcas);
+console.log("O valor da venda de Parafusos com Desconto é: " + valorDescontoParafusos);
+console.log("O valor da venda de Arruelas com Desconto é: " + valorDescontoArruelas);
+
+console.log("O valor total da compra com desconto é: " + valorTotalCompra);
+console.log("O valor total de desconto é: " + valorTotalDesconto);
+20/08/2025 19:24 - Suriel Dos Reis: Vou reinicar o note.
+20/08/2025 19:45 - 3way Academy: let a = 4;
+let b = 6;
+
+console.log(`o valor de a é: ${a} o valor de b é: ${b}`);
+console.log( `a > b - ${a > b}`);
+console.log( `a < b - ${a < b}`);
+console.log( `a >= b - ${a >= b}`);
+console.log( `a <= b - ${a <= b}`);
+console.log( `a === b - ${a === b}`);
+console.log( `a !== b - ${a !== b}`);
+20/08/2025 20:46 - Suriel Dos Reis: Elisaudo, vou sair 15 minutos mais cedo, depois vejo o video, obrigado
+21/08/2025 08:48 - 3way Academy: Bom dia, pessoal
+21/08/2025 08:49 - 3way Academy: Segue o link da aula 9 - https://youtu.be/pXcm5Yfv52g
+21/08/2025 08:57 - 3way Academy: Segue o link da aula 10 - https://youtu.be/o5gCt6NzFcM
+21/08/2025 09:14 - Suriel Dos Reis: Meste Elisaudo, este arquivo já foi enviado anteriormente , há algum exercício diferente?
+21/08/2025 09:25 - 3way Academy: Foram revisados e acrescentados alguns exercícios. Exclua o antigo
+21/08/2025 20:54 - +55 62 8435-5817: olá boa noite!!! Elisaudo, uma dúvia sobre o exercício 9 da lista:
+21/08/2025 20:56 - +55 62 8435-5817: 9. Escrever um algoritmo que leia o nome *(da matéria?)* e as três notas obtidas por um aluno 
+durante o semestre. Calcular a sua média (aritmética), informar o nome *(da matéria?)* e sua 
+menção Aprovado (media >= 7), Reprovado (media <= 5) e Recuperação 
+(media entre > 5 e < 7).*/
+22/08/2025 10:07 - 3way Academy: Bom dia,
+22/08/2025 10:08 - 3way Academy: Sim. Exemplo: nome da matéria: matemática. Notas: nota1, nota2 e nota3. No final imprimir o nome da matéria e a média correspondente
+22/08/2025 10:08 - 3way Academy: Dizendo se o aluno foi aprovado, recuperação o reprovado
+22/08/2025 17:16 - Suriel Dos Reis: Camarada Elisaudo, boa tarde!
+
+Caros colegas.
+
+Tenho uma dúvida sobre a necessidade de ter ou não a informação do ID dentro do HTML.
+
+Tenho acesso ao HTML de grandes coporações e vejo que o ID está em todas as linhas , realmente há necessidade?
+
+Qual a vantagem e desvantagem disso?
+
+Por que para gerar um id único para cada tag, por exemplo : <li id="item-593" data-level="2"></li>
+
+Não deve ser fácil.
+
+Elisaudo, gostaria de ler a sua ideia sobre o assunto.
+22/08/2025 17:41 - 3way Academy: Se houver muita operação de manipulação do DOM em locais diferentes, e desvio dentro da própria página é necessário o id para cada transação. Vamos ver mais a frente o que é manipulação de DOM e eventos.  Fora isso. Devemos usar classes.
+25/08/2025 18:53 - Suriel Dos Reis: Fala meu povo, tudo bem?
+25/08/2025 18:54 - Suriel Dos Reis: Elisaudo, se você me permite postar aqui um trem que descobri para o VS Code:
+
+Para adicionar comentários a um bloco de código no VS Code, selecione o código desejado e use o atalho Ctrl + K, Ctrl + C para comentar o bloco,
+25/08/2025 18:54 - Suriel Dos Reis: Cara , quando descobri isso , achei o máximo.
+25/08/2025 18:55 - +55 62 8435-5817: com esse atalho pode-se comentár várias de uma so vez
+25/08/2025 18:55 - Suriel Dos Reis: Fora que ele tem o comentário para HTML e JavaScript.
+25/08/2025 18:55 - +55 62 8435-5817: é show!
+25/08/2025 18:55 - +55 62 8435-5817: e tem como desfazer tb
+25/08/2025 18:56 - Suriel Dos Reis: É o mesmo comando, liga e desliga.
+25/08/2025 18:57 - +55 62 8435-5817: pra desfazer é Ctrl+u
+25/08/2025 18:59 - +55 62 8435-5817: no lugar do Ctrl+c
+25/08/2025 19:00 - 3way Academy: <Mídia oculta>
+25/08/2025 19:06 - 3way Academy: <Mídia oculta>
+25/08/2025 19:37 - 3way Academy: https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git
+25/08/2025 20:09 - 3way Academy: Mensagem apagada
+25/08/2025 20:11 - 3way Academy: //Faça um programa com if...else if...else
+/* Estações do ano
+Se estação for verão - imprima na tela - Estação do sol
+Se estação for primavera - imprima na tela - Estação das flores
+Se estação for inverno - imprima na tela - Estação do frio
+Se estação for outono - imprima na tela - Estação das frutas
+*/
+
+// Utilize a função .toLowerCase()
+25/08/2025 20:53 - 3way Academy: // switch...case
+
+let valor = 2;
+
+switch (valor) {
+  case 0 :
+    console.log("Zero");
+  break;
+  case 1 :
+  case 2 :
+    console.log("Um  e Dois");
+  break;
+  default:
+    console.log("número inválido");  
+}
+26/08/2025 16:16 - Suriel Dos Reis: Caros colegas e professor Elisaudo.
+
+O Vila perdeu ontem, mas outros jogos virão.
+
+Elisaudo, ontem ficou combinado alguma entrega na próxima quarta-feira? 
+
+Se me permite, sugiro que seja estipulado os exercícios para que façamos em casa, em sala de aula é só pauleira, podemos combinar assim? <Mensagem editada>
+26/08/2025 16:19 - +55 62 8435-5817: Elisaudo, quando puder poste o link da aula de ontem! Vlw
+26/08/2025 16:19 - 3way Academy: Sempre passamos a lista no final de cada tópico e a partir daí pode os exercícios podem ser feitos em  casa. Mas o tempo em sala de aula já está previsto no curso é a forma de fazermos juntos, termos dificuldades e corrigirmos o que for necessário. Isto tudo faz parte do aprendizado...
+26/08/2025 16:21 - Messias Neto Colega 3Way Full Stack JavaScript: ficou pra fazermos algum exercício? seguindo aquela lista? não me recordo...
+26/08/2025 16:23 - 3way Academy: Segue uma lista extra opcional de exercícios:
+26/08/2025 16:23 - 3way Academy: <Mídia oculta>
+26/08/2025 16:25 - 3way Academy: Estamos na toada certa. Conforme matéria dada falo quais serão os próximos exercícios da lista principal
+26/08/2025 16:26 - Suriel Dos Reis: Neste material há alguns exercícios repetidos, já enviado em outras listas.
+26/08/2025 16:27 - 3way Academy: Sim
+26/08/2025 16:27 - Suriel Dos Reis: No exercício 26 a questão informa um link,, ele não está ativo:
+
+26.Faça um Programa que peça um número correspondente a um determinado
+ano e em seguida informe se este ano e ou não bissexto. Clique para ver
+como calcular isso.
+26/08/2025 16:27 - 3way Academy: Na aula vou passar um curso TOP de Javascript, para vocês ficarem "Monstros"
+26/08/2025 16:28 - Suriel Dos Reis: Esse curso MONSTER é da 3Way?
+26/08/2025 16:28 - 3way Academy: da freecodecamp. Na aula eu explico melhor
+26/08/2025 16:29 - 3way Academy: Vou ver e corrigir
+26/08/2025 16:29 - Suriel Dos Reis: Mensagem apagada
+26/08/2025 16:47 - 3way Academy: Pessoal, segue o link da aula 11 - https://youtu.be/8dKp11wmOk0
+27/08/2025 17:15 - Suriel Dos Reis: Professor Elisaudo, já tem uma versão corrigida?
+27/08/2025 17:16 - Suriel Dos Reis: Qual desses exercícios você gostaria que nos fizessemos para a aula de hoje?
+27/08/2025 17:16 - Suriel Dos Reis: Boa tarde!
+27/08/2025 17:17 - 3way Academy: Na aula vamos ver a parte de repetição com do while e while e daremos os exercícios na sequencia da lista básica.
+27/08/2025 19:12 - 3way Academy: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+27/08/2025 19:29 - 3way Academy: let i = 4;
+
+while (i < 9) {
+  console.log(`O valor de i é: ${i}`);
+  //i = i + 1; incremento
+  i++;
+  //i = i - 1; decremento
+  //i--;
+}
+27/08/2025 19:33 - 3way Academy: let total = 0, valor;
+let i = 0;
+
+while(i < 5) {
+  valor = Number(prompt("Digite o valor: "));
+  total = total + valor;
+  i++;
+}
+27/08/2025 19:41 - 3way Academy: let total = 0, valor;
+let i = 0;
+
+while(i < 3) {
+  valor = Number(prompt(`Digite o valor: loop ${i}`));
+  i++;
+  total = total + valor;
+}
+console.log(total);
+27/08/2025 19:42 - 3way Academy: let total = 0, valor;
+let i = 0;
+
+while(i < 3) {
+  valor = Number(prompt(`Digite o valor: loop ${i}`));
+  i++;
+  //total = total + valor;
+  total += valor;
+}
+console.log(total);
+27/08/2025 19:43 - 3way Academy: total += valor; // total *= valor, total -= valor, total /=valor
+27/08/2025 19:59 - 3way Academy: let continuar;
+
+do {
+  //coloque aqui o código do programa
+  
+  continuar = prompt("Deseja continuar S/N ?".toUpperCase());
+} while (continuar === "S");
+27/08/2025 20:40 - 3way Academy: let continuar,
+  desconto,
+  fator,
+  valorCarro,
+  valorCarroVenda,
+  anoCarro,
+  total2000 = 0,
+  totalGeral = 0;
+
+do {
+  valorCarro = Number(prompt("Digite o valor do carro: "));
+  anoCarro = Number(prompt("Digite o ano do carro"));
+  totalGeral++;
+  
+  if (anoCarro <= 2000) {
+    fator = 0.12;
+    total2000++;
+  } else {
+    fator = 0.07;
+  }
+  desconto = valorCarro * fator;
+  valorCarroVenda = valorCarro - desconto;
+  console.log(
+    `o valor do carro com desconto é: ${valorCarroVenda} e o desconto ganho é: ${desconto}`
+  );
+
+  continuar = prompt("Deseja continuar S/N ?".toUpperCase());
+} while (continuar === "S");
+console.log(`o total de carros até 2000 é : ${total2000}`);
+console.log(`o tatal geral de carros é : ${totalGeral}`);
+27/08/2025 20:42 - 3way Academy: https://www.w3schools.com/js/js_arrays.asp
+27/08/2025 20:42 - 3way Academy: https://www.w3schools.com/js/js_loops.asp
+28/08/2025 09:37 - 3way Academy: Bom dia, pessoal
+28/08/2025 09:37 - 3way Academy: Segue o link da aula 12 - https://youtu.be/zLb_HM9srlo
+28/08/2025 10:20 - Suriel Dos Reis: Elisaudo compartilhei com vc o git
+28/08/2025 10:21 - Suriel Dos Reis: Compartilhei com o seu e-mail d GMail.
+28/08/2025 10:21 - Suriel Dos Reis: Poderia conferir por favor? <Mensagem editada>
+28/08/2025 10:35 - 3way Academy: Ok. Recebi aqui
+28/08/2025 16:43 - Suriel Dos Reis: Mestre Elisaudo, conseguiu ver o projeto: Projeto Landing Page
+28/08/2025 16:44 - 3way Academy: Ainda não
+28/08/2025 16:44 - Suriel Dos Reis: Os exercícios solicitados foram somente os 10,12 e 13?
+28/08/2025 16:45 - 3way Academy: Sim
+31/08/2025 23:26 - Suriel Dos Reis: Boa noite Galera.
+
+Os entendidos entenderão.
+01/09/2025 19:13 - Suriel Dos Reis: // Exercício 13//
+// 13. Escrever um algoritmo para uma empresa que decide dar um reajuste a seus funcionários de acordo com os seguintes critérios:
+//      a. 50% para aqueles que ganham menos do que três salários mínimos;
+//      b. 20% para aqueles que ganham entre três até dez salários mínimos;
+//      c. 15% para aqueles que ganham acima de dez até vinte salários mínimos;
+//      d. 10% para os demais funcionários. Seja Um Profissional Aprendendo Com Profissionais.
+//
+//      1. Leia o nome do funcionário, seu salário e o valor do salário mínimo.
+//      2. Calcule o seu novo salário reajustado. Escrever o nome do funcionário, o reajuste e seu novo salário.
+//      3. Calcule quanto à empresa vai aumentar sua folha de pagamento.
+
+let totalReajustes = 0;
+let continuar = "S";
+
+while (continuar.toUpperCase() === "S") {
+    let nome = prompt("Digite o nome do funcionário:");
+    let salario = parseFloat(prompt("Digite o salário do funcionário:"));
+    let salarioMinimo = parseFloat(prompt("Digite o valor do salário mínimo:"));
+
+    let reajuste = 0;
+
+    if (salario < 3 * salarioMinimo) {
+        reajuste = salario * 0.50; // 50%
+    } else if (salario <= 10 * salarioMinimo) {
+        reajuste = salario * 0.20; // 20%
+    } else if (salario <= 20 * salarioMinimo) {
+        reajuste = salario * 0.15; // 15%
+    } else {
+        reajuste = salario * 0.10; // 10%
+    }
+
+    let novoSalario = salario + reajuste;
+
+    console.log("Funcionário: " + nome);
+    console.log("Reajuste: R$ " + reajuste.toFixed(2));
+    console.log("Novo Salário: R$ " + novoSalario.toFixed(2));
+    console.log("--------------------------");
+
+    totalReajustes += reajuste;
+
+    continuar = prompt("Deseja cadastrar outro funcionário? (S/N)");
+}
+
+console.log("=================================");
+console.log("Total de aumentos na folha: R$ " + totalReajustes.toFixed(2));
+01/09/2025 19:13 - +55 62 8435-5817: Ex.12_:
+
+let continuar,
+totalDesconto = 0,
+totalPago = 0,
+totalVeiculos = 0,
+percentualDesconto,
+valorDesconto,
+valorFinal;
+
+do {
+    // Entrada de dados
+    const valorVeiculo = parseFloat(prompt("Digite o valor do veículo:"));
+    const combustivel = prompt("Digite o tipo de combustível (A-Álcool, G-Gasolina, D-Diesel):").toUpperCase();
+    
+        
+    // Cálculo do desconto baseado no combustível
+    switch (combustivel) {
+        case "A":
+            percentualDesconto = 0.25; // 25%
+            break;
+        case "G":
+            percentualDesconto = 0.21; // 21%
+            break;
+        case "D":
+            percentualDesconto = 0.14; // 14%
+            break;
+        default:
+            alert("Tipo de combustível inválido! Use A, G ou D.");
+            continue; // Volta para o início do loop
+    }
+    
+    // Cálculos
+    valorDesconto = valorVeiculo * percentualDesconto;
+    valorFinal = valorVeiculo - valorDesconto;
+    
+    // Acumular totais
+    totalDesconto += valorDesconto;
+    totalPago += valorFinal;
+    totalVeiculos++;
+    
+    // Exibir resultado do veículo atual
+    console.log(`\n--- Veículo ${totalVeiculos} ---`);
+    console.log(`Valor original: R$ ${valorVeiculo.toFixed(2)}`);
+    console.log(`Tipo de combustível: ${combustivel}`);
+    console.log(`Desconto (${percentualDesconto * 100}%): R$ ${valorDesconto.toFixed(2)}`);
+    console.log(`Valor a pagar: R$ ${valorFinal.toFixed(2)}`);
+    
+    // Perguntar se deseja continuar
+    continuar = prompt("Deseja continuar? (S) Sim / (N) Não").toUpperCase();
+    
+} while (continuar === "S");
+
+// Exibir totais finais
+console.log(`\n=== RESUMO FINAL ===`);
+console.log(`Total de veículos: ${totalVeiculos}`);
+console.log(`Total de desconto concedido: R$ ${totalDesconto.toFixed(2)}`);
+console.log(`Total pago pelos clientes: R$ ${totalPago.toFixed(2)}`);
+01/09/2025 19:25 - Messias Neto Colega 3Way Full Stack JavaScript: let salarioMinimo, salario, continuar, novoSalario, reajuste;
+
+salarioMinimo = Number(prompt("Digite o valor do salário mínimo:"));
+
+do {
+  salario = Number(prompt("Digite o salário do funcionário:"));
+  if (salario < 3 * salarioMinimo) {
+    reajuste = salario * 0.5;
+  } else if (salario <= 10 * salarioMinimo) {
+    reajuste = salario * 0.2;
+  } else if (salario <= 20 * salarioMinimo) {
+    reajuste = salario * 0.15;
+  } else {
+    reajuste = salario * 0.1;
+  }
+
+  novoSalario = salario + reajuste;
+  console.log(`Salário atual: R$ ${salario.toFixed(2)}`);
+  console.log(`Reajuste: R$ ${reajuste.toFixed(2)}`);
+  console.log(`Novo salário: R$ ${novoSalario.toFixed(2)}`);
+  continuar = prompt(
+    "Deseja calcular para outro funcionário? (S/N)"
+  ).toUpperCase();
+} while (continuar === "S");
+01/09/2025 19:42 - 3way Academy: // Repetição com variáveis de controle - for...
+//Decremento
+for( let i = 8; i >= 0; i--) {
+  
+  console.log(`O valor de i é : ${i}`);
+  
+}
+01/09/2025 19:42 - 3way Academy: // Repetição com variáveis de controle - for...
+//Incremento
+for( let i = 0; i < 5; i++) {
+  
+  console.log(`O valor de i é : ${i}`);
+  
+}
+01/09/2025 19:49 - Messias Neto Colega 3Way Full Stack JavaScript: minha internet tá caindo
+01/09/2025 20:00 - 3way Academy: // Repetição com variáveis de controle - for...
+//Incremento com for aninhado
+for( let i = 0; i < 5;i++) {
+  for(let j = 0; j < 5;j++) {
+    console.log(i, j);
+  }
+}
+01/09/2025 20:21 - 3way Academy: const arr = [
+  "3way Academy",
+  250,
+  true,
+  { country: "Finland", city: "Helsinki" },
+  { skills: ["HTML", "CSS", "JS", "React", "Python"] }
+];
+01/09/2025 20:49 - 3way Academy: // array
+
+let alunos = [];
+/*
+alunos[0] = 'Guilherme';
+alunos[1] = 'Messias';
+alunos[2] = 'Suriel';
+alunos[3] = 'Douglas';
+*/
+//Entrada
+for(let i = 0; i < 5; i++) {
+  alunos[i] = prompt("Digite o nome do aluno: ");
+}
+
+//Saída
+for(let i = 0; i < 5; i++) {
+  console.log(`O conteúdo da posição ${i} é: ${alunos[i]}`);
+}
+01/09/2025 20:56 - 3way Academy: Exercícios 15 ao 19 - Array e for
+02/09/2025 21:20 - 3way Academy: Boa noite, pessoal
+02/09/2025 21:20 - 3way Academy: Segue o link da aula 13 -https://youtu.be/GQc692s95Ec
+03/09/2025 18:11 - +55 62 8435-5817: Olá pessoal! Boa noite! Hoje atipicamente não poderei participar da aula por motivos profissionais. Mas assistirei a aula e as dúvidas enviarei em seguida. Ótima aula a todos.
+03/09/2025 19:15 - Messias Neto Colega 3Way Full Stack JavaScript: minha Internet caiu
+03/09/2025 19:15 - 3way Academy: Vai fazendo ai
+03/09/2025 19:27 - 3way Academy: let a = 8;
+
+console.log(a % 2 === 0); // verifica se é par
+
+console.log(a % 2 === 1); // verifica se é impar
+03/09/2025 19:44 - Messias Neto Colega 3Way Full Stack JavaScript: let numeros = [];
+
+// leitura dos 5 números - Incremento
+for (let i = 0; i < 5; i++) {
+  numeros[i] = parseInt(prompt(`Digite o número: `));
+} 
+console.log(numeros);
+
+// leitura dos 5 números - Decremento
+for (let i = 4; i >= 0; i--) {
+  console.log(`O valor da posição ${i} é : ${numeros[i]}`);
+}
+03/09/2025 20:02 - Messias Neto Colega 3Way Full Stack JavaScript: let numeros = [];
+
+// lê 5 números reais
+for (let i = 0; i < 5; i++) {
+  numeros[i] = parseFloat(prompt(`Digite o ${i + 1}º número real:`));
+}
+
+// mostra os números nas posições ímpares
+for (let i = 0; i < 5; i++) {
+  if (i % 2 === 1) {
+    console.log(`O número ${numeros[i]} é PAR`); 
+}else {
+    console.log(`O número ${numeros[i]} é ÍMPAR`);}
+}
+03/09/2025 20:14 - Messias Neto Colega 3Way Full Stack JavaScript: let numeros = [];
+
+// ler 5 valores e aplicar aumento
+for (let i = 0; i < 5; i++) {
+  numeros[i] = parseFloat(prompt(`Digite o valor ${i}:`));
+}   
+console.log(numeros);
+for (let i = 0; i < 5; i++) {
+  if (i % 2 === 0){
+    numeros[i] = numeros[i] * 1.02;
+} else {
+  numeros[i] = numeros[i] * 1.05;
+}
+}
+
+console.log(`Este é o vetor alterado: \n ${numeros}`);
+03/09/2025 20:35 - 3way Academy: Vou desconectar e conectar de novo. para sair o som
+03/09/2025 20:36 - Messias Neto Colega 3Way Full Stack JavaScript: a gente testá te ouvindo
+03/09/2025 20:36 - Messias Neto Colega 3Way Full Stack JavaScript: mas você não ouve a gente
+04/09/2025 07:54 - 3way Academy: Bom dia, pessoal
+04/09/2025 07:54 - 3way Academy: Segue o link da aula 14 - https://youtu.be/tojMuNPQR7k
+04/09/2025 07:58 - Suriel Dos Reis: Bom dia!
+04/09/2025 07:58 - Suriel Dos Reis: Elisaudo, tem algum exercício para a próxima segunda-feira?
+04/09/2025 08:03 - 3way Academy: Tem, mas para a nova material- funções. Faremos na aula
+05/09/2025 20:13 - Suriel Dos Reis: Boa noite! Mestre Elisaudo, como desabilitar a opção de contribuição , conforme print abaixo: <Mensagem editada>
+06/09/2025 09:46 - 3way Academy: Bom dia
+06/09/2025 09:47 - 3way Academy: No rodapé modal tem a opção de deixar pra depois
+08/09/2025 16:23 - Suriel Dos Reis: Para um bom entendedor uma imagem é suficiente.
+08/09/2025 16:23 - Suriel Dos Reis: <Mídia oculta>
+08/09/2025 16:23 - Suriel Dos Reis: Boa tarde galera.
+08/09/2025 16:23 - Suriel Dos Reis: Meste Elisaudo, tudo firme para hoje?
+08/09/2025 16:23 - Suriel Dos Reis: Materia nova?
+08/09/2025 19:13 - 3way Academy: // Funções
+
+function nomeFuncao(param1, param2, ...) {
+  
+  // o código vai aqui
+  
+}
+
+nomeFuncao(arg1, arg2, ....)// chamando uma função pelo seu nome com parêntese
+08/09/2025 19:20 - 3way Academy: // Funções
+
+function soma(num1, num2) {
+  
+  let resultado = num1 + num2;
+  
+  return resultado;
+  
+}
+
+console.log(soma(10, 30))
+08/09/2025 19:22 - 3way Academy: // Funções
+let adicao;
+
+function soma(num1, num2) {
+  
+  let resultado = num1 + num2;
+  
+  return resultado;
+  
+}
+
+adicao = soma(10, 30);
+08/09/2025 20:35 - +55 62 8435-5817: ex23 _ DOUGLAS:
+// Programa principal
+function calcularEntrega(compra, prazo) {
+    let resultado = 0;
+    // Calcular o valor final com base no prazo
+    switch(prazo) {
+   
+        case 3:
+            resultado = compra + 25;
+            break;
+        case 5:
+            resultado = compra + 20;
+            break;
+        case 7:
+            resultado = compra + 15;
+            break;
+        case 10:
+           resultado = compra + 10;
+            break;
+        default:
+            alert("Opção de prazo inválida! Escolha entre 3, 5, 7 ou 10.");
+        
+    }
+  return resultado;
+}
+
+let valorCompra = Number(prompt("Digite o Valor da Compra"));
+
+let prazoEntrega = parseInt(prompt("Digite o prazo de entrega desejado:\n -> 3 dias úteis (+R$ 25,00)\n -> 5 dias úteis (+R$ 20,00)\n -> 7 dias úteis (+R$ 15,00)\n -> 10 dias úteis (+R$ 10,00)"));
+
+let valorFinal = calcularEntrega(valorCompra, prazoEntrega);//Variável para armazenar o vlor final da entrega do clinete;
+
+console.log(`O valor final a ser pago pelo cliente será ${valorFinal}`);
+08/09/2025 20:37 - Reis Guilherme 3way: function vendaLivros(valor, prazo) {
+  let adicional = 0;
+  if (prazo === 3) {
+    adicional = 25;
+  } else if (prazo === 5) {
+    adicional = 20;
+  } else if (prazo === 7) {
+    adicional = 15;
+  } else if (prazo === 10) {
+    adicional = 10;
+  } else {
+    console.log("prazo invalido!");
+    return null;
+  }
+
+  return valor + adicional;
+}
+
+let valorCompra = Number(prompt("Digite aqui o valor do livro"));
+let prazoEntrega = Number(prompt("Digite aqui o prazo de entrega (3, 5, 7, 10 dias úteis:)"));
+
+let valorFinal = vendaLivros(valorCompra, prazoEntrega);
+console.log(`O valor final da compra é: ${valorFinal}`);
+09/09/2025 11:59 - 3way Academy: Bom dia,
+09/09/2025 11:59 - 3way Academy: Segue o link da aulal 15 - nhttps://youtu.be/avGgPgz3DJc
+09/09/2025 12:00 - 3way Academy: https://youtu.be/avGgPgz3DJc
+10/09/2025 16:47 - +55 62 8435-5817: Olá pessoal! Tudo bem com vcs? Estou em viagem a trabalho. Tentarei chegar ainda no horário do curso. Se não conseguir ótima aula pra vcs
+10/09/2025 19:02 - Suriel Dos Reis: ola
+10/09/2025 19:07 - 3way Academy: <Mídia oculta>
+10/09/2025 19:08 - 3way Academy: <Mídia oculta>
+10/09/2025 19:24 - 3way Academy: <div class="grid-container">
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+    </div>
+10/09/2025 19:43 - 3way Academy: <Mídia oculta>
+10/09/2025 19:49 - 3way Academy: <div class="container">
+      <div class="room" id="living-room">Living Room</div>
+      <div class="room" id="kitchen">Kitchen</div>
+      <div class="room" id="bedroom">Bedroom</div>
+      <div class="room" id="bathroom">Bathroom</div>
+      <div class="room" id="closet">Closet</div>
+    </div>
+10/09/2025 19:58 - 3way Academy: <Mídia oculta>
+10/09/2025 20:33 - 3way Academy: <Mídia oculta>
+10/09/2025 20:47 - 3way Academy: .container {
+  display: inline-grid;
+  grid-template: 40px 40px 40px 40px 40px / 40px 40px 40px 40px 40px;
+  background-color: lightblue;
+  grid-template-areas:
+  "living-room living-room living-room living-room living-room"
+  "living-room living-room living-room living-room living-room"
+  "bathroom    bedroom     bedroom     kitchen     kitchen"
+  "bathroom    bedroom     bedroom     kitchen     kitchen"
+  "bathroom    closet      closet      kitchen     kitchen"
+  ;
+}
+
+.room {
+  border: 1px solid;
+  font-size: 50%;
+  text-align: center;
+}
+
+#living-room {
+ grid-area: living-room;
+}
+
+#kitchen {
+ grid-area: kitchen;
+}
+
+#bedroom {
+  grid-area: bedroom;
+}
+
+#bathroom {
+  grid-area: bathroom;
+}
+
+#closet {
+  grid-area: closet;
+}
+11/09/2025 10:38 - 3way Academy: Bom dia, pessoal
+11/09/2025 10:38 - 3way Academy: Segue o link da aula 16 - https://youtu.be/RdyuZ--HvQI
+11/09/2025 10:41 - 3way Academy: Lembrem de concluir as atividades a serem apresentadas na próxima aula.
+11/09/2025 10:41 - 3way Academy: Exercícios 24 e 25 de funções
+11/09/2025 10:42 - 3way Academy: E o CSS grid com grid área que devia ser finalizado na aula
+15/09/2025 18:04 - Suriel Dos Reis: Fala galera, tudo bem com todos, entre os sobreviventes do calor, todos estão bem?
+
+Elisaudo, firme com a aula hoje?
+
+O exercício são somente os que foram dados na aula?
+15/09/2025 18:59 - 3way Academy: Extensões VSCode
+Color Highlight
+CSS Formatter
+ESLint
+IntelliCode (Visual Studio IntelliCode)
+Auto Rename Tag
+Prettier
+Live Server
+15/09/2025 19:06 - 3way Academy: <div class="grid-container">
+      <div class="grid-item">
+        <p>3way 1</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 2</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 3</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 4</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 5</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 6</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 7</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 8</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 9</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+      <div class="grid-item">
+        <p>3way 10</p>
+        <img
+          src="https://www.3way.com.br/wp-content/uploads/2022/10/3way_logofundobranco-1.png"
+          alt="top logo"
+          alt="top logo"
+        />
+      </div>
+    </div>
+15/09/2025 19:07 - 3way Academy: .grid-container {
+  resize: both;
+  overflow: auto;
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid grey;
+  background-color: skyblue;
+  grid-template-rows: 150px 150px;
+  grid-template-columns: 150px 150px 150px 150px 150px;
+}
+.grid-item {
+  background-color: #444;
+  text-align: center;
+  color: #ddd;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  padding: 12px;
+}
+p {
+  margin: 12px auto 24px;
+}
+img {
+  height: 60px;
+}
+15/09/2025 19:27 - Messias Neto Colega 3Way Full Stack JavaScript: .grid-container {
+    resize: both;
+    overflow: auto;
+    display: grid;
+    gap: 4px;
+    padding: 4px;
+    border: 1px solid grey;
+    background-color: skyblue;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(autofit, minmax(150px, 1fr));
+}
+
+.grid-item {
+    background-color: #444;
+    text-align: center;
+    color: #ddd;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    padding: 12px;
+}
+
+p {
+    margin: 12px auto 24px;
+}
+
+img {
+    height: 60px;
+}
+15/09/2025 19:32 - Reis Guilherme 3way: .grid-container {
+    resize: both;
+    overflow: auto;
+    display: grid;
+    gap: 4px;
+    padding: 4px;
+    border: 1px solid grey;
+    background-color: skyblue;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.grid-item {
+    background-color: #444;
+    text-align: center;
+    color: #ddd;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    padding: 12px;
+}
+
+p {
+    margin: 12px auto 24px;
+}
+
+img {
+    height: 60px;
+}
+15/09/2025 19:37 - 3way Academy: <Mídia oculta>
+15/09/2025 20:42 - 3way Academy: <Mídia oculta>
+15/09/2025 20:45 - 3way Academy: grid-template-columns: 1fr 1fr 1fr
+16/09/2025 10:52 - 3way Academy: Bom dia, pessoal
+16/09/2025 10:52 - 3way Academy: Segue o link da aula 17 - https://youtu.be/JvmMfNk77rg
+17/09/2025 09:24 - Suriel Dos Reis: Elisaudo, bom dia!
+
+Vou precisar de uma ajudinha nessa tarefa, não estou conseguindo chegar neste leiaute.
+17/09/2025 09:25 - +55 62 8435-5817: bom dia!! Nessa eu tb tô apanhando aqui
+17/09/2025 09:27 - Suriel Dos Reis: .container {
+  text-align:center;
+  gap: 10px;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 1fr 1fr 500fr 1fr;
+}
+17/09/2025 09:27 - Suriel Dos Reis: Isso está certo?
+17/09/2025 18:59 - Suriel Dos Reis: oi
+17/09/2025 19:00 - Messias Neto Colega 3Way Full Stack JavaScript: solicitei acesso na sala
+17/09/2025 19:00 - 3way Academy: grid-template-rows: 1fr 1fr 5fr 1fr;
+17/09/2025 19:07 - 3way Academy: <Mídia oculta>
+17/09/2025 19:22 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+17/09/2025 19:30 - Suriel Dos Reis: <Mídia oculta>
+17/09/2025 19:35 - 3way Academy: Entrega projeto GRID 01/10/2025
+17/09/2025 20:19 - +55 62 8435-5817: para desabilitar o MDN:
+-Abra as Configurações: Pressione Ctrl + , (ou vá em File > Preferences > Settings)
+-Procure por "Editor Hover": Na barra de pesquisa das configurações, digite editor.hover.enabled. 
+-Desmarque a opção: Desmarque a caixa ao lado de Editor: Hover. Enabled para desativar o hover do editor, que exibe as informações do MDN ao passar o mouse sobre o código
+17/09/2025 20:20 - 3way Academy: <Mídia oculta>
+17/09/2025 20:20 - 3way Academy: <Mídia oculta>
+17/09/2025 20:23 - 3way Academy: EXERCÍCIO 3 -- GRID
+17/09/2025 20:23 - 3way Academy: * {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  gap: 4px;
+}
+.container div {
+  padding: 15px;
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+.header {
+  grid-column: 1 / 3;
+  background-color: #393f4d;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+.logo{
+  justify-self: start;
+}
+.menu ul{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.menu ul,
+.menu li {
+  font-size: 16px;
+  list-style-type: none;
+}
+.sidebar {
+  background-color: #ff7755;
+  grid-row: 2 / 4;
+  display: grid;
+  gap: 50px;
+}
+
+.side-content, .photo {
+  display: grid;
+  align-items: center;
+}
+.sidebar .photo {
+  background-color: white;
+  color: black;
+  font-size: 12px;
+  font-weight: normal;
+  border-radius: 10px;
+}
+.sidebar .side-content {
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+}
+.nav {
+  background-color: #ff7755;
+}
+.nav ul li {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.nav ul {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.article {
+  background-color: #bccbde;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+.article p {
+  font-size: 18px;
+  font-family: sans-serif;
+  color: white;
+  text-align: left;
+}
+.article .card {
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  height: 200px;
+}
+.card p {
+  color: black;
+  font-weight: normal;
+  font-size: 14px;
+  padding: 5px;
+}
+.card .title {
+  font-size: 18px;
+  text-align: center;
+}
+.footer {
+  background-color: #393f4d;
+  grid-column: 1 / 3;
+}
+.footer p {
+  font-size: 13px;
+  font-weight: normal;
+}
+17/09/2025 20:23 - 3way Academy: <div class="container">
+      <div class="header">
+        <div class="logo">Header Logo</div>
+        <div class="menu">
+          <ul>
+            <li>header link one</li>
+            <li>header link two</li>
+            <li>header link three</li>
+            <li>header link four</li>
+          </ul>
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="photo">
+          <p>placeholder for image</p>
+        </div>
+        <div class="side-content">Box 1</div>
+        <div class="side-content">Box 2</div>
+        <div class="side-content">Box 3</div>
+      </div>
+      <div class="nav">
+        <ul>
+          <li>Latest Articles</li>
+          <li>Most Views</li>
+          <li>Featured</li>
+        </ul>
+      </div>
+      <div class="article">
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+        <div class="card">
+          <p class="title">Article Title</p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud...
+          </p>
+        </div>
+      </div>
+      <div class="footer">
+        <p>Copyright © The Odin Project 2021</p>
+      </div>
+    </div>
+18/09/2025 11:48 - 3way Academy: Bom dia, pessoal
+18/09/2025 11:48 - 3way Academy: Segue o link da aula 18 - https://youtu.be/dK9ba-HxTfo
+19/09/2025 13:28 - Suriel Dos Reis: Elisaudo, a aula de quarta-feira dia 17/09/2025 não foi gravada? Essa aula 18 não parece ser a nossa turma.
+
+Estava procurando a nossa conversa sobre o projeto Grid.
+19/09/2025 13:29 - 3way Academy: Isso. A aula não foi gravada, por isso o conteúdo de outra turma
+19/09/2025 14:11 - Suriel Dos Reis: Elisaudo, conforme imagem, faz sentido ter um sub-grid para o MAIN? <Mensagem editada>
+19/09/2025 14:47 - 3way Academy: Pode é deve ser colocado grid onde  ficará o conteúdo
+22/09/2025 19:08 - 3way Academy: Plugin para rodar linguagens no VS CODE - Code Runnner
+22/09/2025 19:17 - 3way Academy: // Javascript Avançado
+// Programação Imperativa - Que você tem que ordenar o passo a passo para execução das instruções no computador.
+// Programação Declarativa - Que diz o que você quer que seja feito.
+22/09/2025 19:22 - 3way Academy: // obj = {chave1: valor1, chave2: valor2}; virgula é opcional após último par chave / valor
+22/09/2025 19:31 - 3way Academy: const obj = {
+  numeroFavorito: 32,
+  cumprimento: "Alô Mundo",
+  usaCumprimento: true,
+  endereco: {
+    rua: "Oiapoque",
+    cidade: "Goiânia"
+  },
+  frutas: ["melão", "papaya"],
+  adicionaNumero: function (a, b) {
+    return a + b;
+  }
+};
+22/09/2025 19:45 - +55 62 8435-5817: sem internet
+22/09/2025 19:45 - +55 62 8435-5817: resolvendo
+22/09/2025 19:46 - 3way Academy: // Usando notação por ponto, chame a função adicionaNumero para somar 20 + 60;
+console.log(obj.adicionaNumero(20, 60));
+22/09/2025 20:27 - 3way Academy: Operador ternário, é uma forma simplifica para if...else
+ condição ? seVerdadeiro : seFalso;
+22/09/2025 20:56 - 3way Academy: const items = [
+ { id: ' 🍔 ', name: 'Super Burger', price: 399 },
+ { id: ' 🍟 ', name: 'Jumbo Fries', price: 199 },
+ { id: ' 🥤 ', name: 'Big Slurp', price: 299 }
+ ];
+23/09/2025 08:38 - 3way Academy: Bom dia, Programadores Apocalípticos!!!
+23/09/2025 08:38 - 3way Academy: Segue o link da aula 19 - https://youtu.be/DpklSfqXnZY
+23/09/2025 08:52 - Messias Neto Colega 3Way Full Stack JavaScript: kkkkkkkkk
+23/09/2025 22:37 - Suriel Dos Reis: Mestre Elisaudo, saudações Esmeraldinas, desculpe a hora, me responda quando puder.
+
+const person = {
+  name: "Taylor",
+  sayHello: function() {
+    return `Hello! My name is ${this.name}.`;
+  }
+};
+
+A função acima foi desenvolvida com ES5, mas ainda é suportada pela versão ES6?
+23/09/2025 22:37 - Suriel Dos Reis: Isso em qualquer navegador?
+23/09/2025 22:38 - +55 62 8435-5817: boa noite
+23/09/2025 22:39 - +55 62 8435-5817: alguém com problemas para executar o plugin code runner?
+23/09/2025 22:40 - +55 62 8435-5817: sempre aparece esse erro: 'node' n�o � reconhecido como um comando interno
+ou externo, um programa oper�vel ou um arquivo em lotes.
+23/09/2025 22:40 - Suriel Dos Reis: Ainda não instalei o plugin.
+23/09/2025 22:40 - +55 62 8435-5817: não roda nem a pau
+23/09/2025 22:40 - +55 62 8435-5817: mas falamos amanhã
+23/09/2025 22:40 - +55 62 8435-5817: ótimo descanso a todos
+23/09/2025 22:41 - +55 62 8435-5817: obrigado Suriel
+24/09/2025 17:25 - Suriel Dos Reis: Boa tarde!! Elisaudo, você viu o meu questionamento acima?
+24/09/2025 17:27 - +55 62 8435-5817: sobre este erro consegui resolver! Caso alguém tenha passado pelo mesmo problema tenho as dicas pra solução
+24/09/2025 19:00 - 3way Academy: Deveria. Mas dá uma testada / pesquisada
+24/09/2025 19:16 - 3way Academy: https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md#exercises-level-1
+24/09/2025 19:49 - 3way Academy: const todoList = [
+ {
+ task: "Prepare JS Test",
+ time: "4/1/2020 8:30",
+ completed: true,
+ },
+ {
+ task: "Give JS Test",
+ time: "4/1/2020 10:00",
+ completed: false,
+ },
+ {
+ task: "Assess Test Result",
+ time: "4/1/2020 1:00",
+ completed: false,
+ },
+ ];
+24/09/2025 20:29 - 3way Academy: // Operador spread ... lado direito da atribuição
+let address = {
+  postalCode: '11011',
+  city: "Berlin",
+  country: 'Brazil'
+}
+
+address = {
+        ...address, 
+        city: 'Goiânia'
+};
+console.log(address);
+25/09/2025 09:24 - 3way Academy: Bom dia, pessoal
+25/09/2025 09:24 - 3way Academy: Segue o link da aula 20 - https://youtu.be/InbBqIw37FI
+29/09/2025 08:19 - 3way Academy: Bom dia, pessoal
+29/09/2025 08:19 - +55 62 8435-5817: bom dia
+29/09/2025 08:19 - 3way Academy: Favor instalar o Node.JS na máquina de vocês:
+29/09/2025 08:19 - 3way Academy: Mensagem apagada
+29/09/2025 08:37 - Suriel Dos Reis: Bom dia! A minha versão é 22.17.1 , pode ser essa? <Mensagem editada>
+29/09/2025 08:39 - 3way Academy: Pessoal, instale esta versão por ser a mais estável - https://nodejs.org/pt/download
+29/09/2025 19:06 - 3way Academy: <Mídia oculta>
+29/09/2025 19:07 - 3way Academy: <Mídia oculta>
+29/09/2025 19:22 - 3way Academy: http://httpbin.org/post
+29/09/2025 19:24 - 3way Academy: "http://httpbin.org/post"
+29/09/2025 19:26 - 3way Academy: <form action="http://httpbin.org/post" method="post">
+      <div>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" placeholder="Digite o nome" name="nome" />
+      </div>
+      <div>
+        <label for="sobrenome">Sobrenome:</label>
+        <input type="text" id="sobrenome" placeholder="Digite o sobrenome" name="sobrenome" />
+      </div>
+      <div>
+        <label for="Idade">Idade:</label>
+        <input type="number" id="idade" placeholder="Digite a idade" name="idade" />
+      </div>
+      <button type="submit">Enviar</button>
+    </form>
+29/09/2025 19:36 - 3way Academy: <Mídia oculta>
+29/09/2025 19:36 - 3way Academy: <Mídia oculta>
+29/09/2025 20:18 - 3way Academy: function displayform() {
+    let data = "Username:<br><input type='text'name='name'><br>Comment:";
+    data += "<br><textarea rows='6' cols='45'></textarea><br>";
+    data += "<input type='submit' value='Contact us'>";
+    document.getElementById('area').innerHTML=data;
+}
+29/09/2025 20:28 - 3way Academy: <Mídia oculta>
+29/09/2025 20:38 - 3way Academy: npm install -g vite
+29/09/2025 20:41 - 3way Academy: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+29/09/2025 20:44 - 3way Academy: npm create vite@latest my-lab --template
+29/09/2025 20:52 - Suriel Dos Reis: <Mídia oculta>
+30/09/2025 11:23 - 3way Academy: Bom dia, pessoal
+30/09/2025 11:23 - 3way Academy: Segue o link da aula 21 - https://youtu.be/YLM1pOAd5Kw
+01/10/2025 19:43 - 3way Academy: <Mídia oculta>
+01/10/2025 19:43 - 3way Academy: <Mídia oculta>
+01/10/2025 20:01 - 3way Academy: import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+//import App from './App.jsx'
+
+function App() {
+  return (
+    <div>
+      <header>
+        <nav>
+          <img src="./images/logo-react.png" alt="logo-react" width="40px" />
+        </nav>
+      </header>
+      <main>
+        <h1>Razões que estou animado com o React</h1>
+        <ol>
+          <li>É uma biblioteca popular, com grande comunidade.</li>
+          <li>Fácil para conseguir emprego, devido demanda.</li>          
+        </ol>
+      </main>
+    </div>
+  );
+}
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
+01/10/2025 20:17 - 3way Academy: components
+01/10/2025 20:26 - Reis Guilherme 3way: export default App;
+02/10/2025 08:52 - 3way Academy: Bom dia, pessoal
+02/10/2025 08:52 - 3way Academy: Segue o link da aula 22 - https://youtu.be/bisQk2qBd44
+06/10/2025 12:51 - 3way Academy: Boa tarde, pessoal
+06/10/2025 12:51 - +55 62 8435-5817: boa tarde
+06/10/2025 12:51 - Messias Neto Colega 3Way Full Stack JavaScript: boa tarde
+06/10/2025 12:51 - +55 62 8435-5817: Prof. preciso de um help no projeto
+06/10/2025 12:52 - 3way Academy: Para a aula de hoje a configuração do projeto deve estar pronta, conforme orientação do projeto React Facts no material
+06/10/2025 12:52 - +55 62 8435-5817: vou mandar daqui a pouco a problema
+06/10/2025 12:52 - 3way Academy: Os comandos são semelhantes aos que vocês deram para configurar o projeto my-lab
+06/10/2025 12:52 - Messias Neto Colega 3Way Full Stack JavaScript: aq ok, eu acho kkk
+06/10/2025 12:52 - 3way Academy: E as pastas devem estar preparadas conforme fizemos no projeto my-lab
+06/10/2025 12:53 - 3way Academy: Estas orientações estão no material do projeto passado emaula
+06/10/2025 12:54 - 3way Academy: Como está na orientação passada, na pasta onde ficará o projeto deve ser executado o comando:
+06/10/2025 12:54 - 3way Academy: npm create vite@latest siteinfo-reactfacts --template
+06/10/2025 12:54 - 3way Academy: E depois fazer os ajustes na pasta conforme está no vídeo da aula anterior
+06/10/2025 12:56 - 3way Academy: Façam também o cadastro de você no site: https://www.figma.com/
+06/10/2025 12:57 - 3way Academy: Pois esta ferramenta será utilizado ao longo dos projetos
+06/10/2025 19:13 - +55 62 8435-5817: douglasvox@hotmail.com
+06/10/2025 19:13 - Suriel Dos Reis: suriel.reis@gmail.com
+06/10/2025 19:14 - Reis Guilherme 3way: guilhermebr33@gmail.com
+06/10/2025 19:14 - Messias Neto Colega 3Way Full Stack JavaScript: netomessias74@gmail.com
+06/10/2025 19:16 - 3way Academy: <Mídia oculta>
+06/10/2025 19:20 - Messias Neto Colega 3Way Full Stack JavaScript: alguém conseguiu abrir esse arquivo?
+06/10/2025 19:20 - Reis Guilherme 3way: eu não
+06/10/2025 19:21 - +55 62 8435-5817: não
+06/10/2025 19:21 - Messias Neto Colega 3Way Full Stack JavaScript: tbm não consegui
+06/10/2025 19:28 - Messias Neto Colega 3Way Full Stack JavaScript: minha Internet caiu
+06/10/2025 19:53 - 3way Academy: npm create vite@latest airbnb-clone--template
+06/10/2025 20:27 - +55 62 8435-5817: @⁨Messias Neto Colega 3Way Full Stack JavaScript⁩ deu certo a criação do novo projeto?
+06/10/2025 20:31 - Messias Neto Colega 3Way Full Stack JavaScript: deu sim
+06/10/2025 20:32 - Messias Neto Colega 3Way Full Stack JavaScript: por aí deu certo tbm?
+06/10/2025 20:40 - 3way Academy: https://www.linkedin.com/in/isac-costa-da-silva-04a442310/
+06/10/2025 20:47 - 3way Academy: @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+  background-color: #282D35;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 15px;
+}
+
+.nav-logo_text, .nav-title {
+    margin: 0;
+}
+
+.nav-logo_text {
+    color: #61DAFB;
+}
+
+.nav-title {
+    color: #DEEBF8 ;
+    font-weight: 600;
+    margin-left: auto;
+}
+
+.nav-icon {
+    height: 50px;
+    margin-left: 7px;
+    margin-right: 5px;
+}
+06/10/2025 20:47 - 3way Academy: <header >
+      <nav>
+        <img src="images/logo-react.png" className="nav-icon" alt="Foto logo React" />
+        <h3 className="nav-logo_text">ReactFacts</h3>
+        <h4 className="nav-title">React Course - Project 1</h4>
+      </nav>
+    </header>
+06/10/2025 20:48 - 3way Academy: Componente Main.jsx
+06/10/2025 20:48 - 3way Academy: export default function Main() {
+  return (
+    <main>
+      <h1 className="main-title">Curiosidades sobre o React</h1>
+      <ul className="main-facts">
+        <li>Foi lançado pela primeira vez em 2013</li>
+        <li>Foi originalmente criado por Jordan Walke</li>
+        <li>Tem mais de 100 mil estrelas no GitHub</li>
+        <li>É mantido pelo Facebook</li>
+        <li>
+          Capacita milhares de aplicativos corporativos, incluindo aplicativos
+          móveis
+        </li>
+      </ul>
+    </main>
+  );
+}
+06/10/2025 21:00 - 3way Academy: npm create vite@latest airbnb-clone --template
+06/10/2025 21:21 - +55 62 8435-5817: Segue extenções pra ajudar em html e css:
+html: auto rename Tag
+CSS: CSS Peak <Mensagem editada>
+07/10/2025 09:59 - 3way Academy: Bom dia, pessoal
+07/10/2025 09:59 - 3way Academy: Segue o link da aula 23 - https://youtu.be/TmhhJ2tSKAs
+08/10/2025 18:02 - Suriel Dos Reis: Caro Elisaudo e colegas, hoje estou com um compromisso familiar e não posso assistir a aula.
+
+Na segunda-feira estarei firme.
+
+Elsaudo, lembre-se de gravar a aula, realmente é fundamental.
+
+Grande abraço a todos, boa aula.
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:22 - 3way Academy: <Mídia oculta>
+08/10/2025 19:55 - 3way Academy: box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+08/10/2025 20:18 - 3way Academy: @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+09/10/2025 08:21 - 3way Academy: Bom dia, pessoal
+09/10/2025 08:21 - 3way Academy: Segue o link da aula 24 - https://youtu.be/cutuloRIV8Q
+12/10/2025 10:42 - +55 62 8435-5817: bom dia
+12/10/2025 14:31 - Suriel Dos Reis: Boa tarde!
+12/10/2025 14:34 - Messias Neto Colega 3Way Full Stack JavaScript: boa tarde
+12/10/2025 16:30 - Suriel Dos Reis: Já que ceis estão estudando para não passar vergonha na aula de segunda, eu tenho uma pergunta.
+
+Qual é o tamanho do ìcone do AirBNB especificado dentro do Figma?
+13/10/2025 09:24 - +55 62 8435-5817: bom dia!
+13/10/2025 09:25 - +55 62 8435-5817: preciso de um help com CSS
+13/10/2025 09:48 - Suriel Dos Reis: No airbnb?
+13/10/2025 09:49 - +55 62 8435-5817: sim
+13/10/2025 09:49 - Suriel Dos Reis: Se for, eu usei o q está no pdf. <Mensagem editada>
+13/10/2025 09:49 - Suriel Dos Reis: Copiar e colar.
+13/10/2025 09:49 - +55 62 8435-5817: estou preparando o ambiente em outra máquina e vou fazer de novo
+13/10/2025 09:49 - +55 62 8435-5817: vou fazer isso
+13/10/2025 09:52 - +55 62 8435-5817: CSS me assombrando aqui
+13/10/2025 17:19 - +55 62 8435-5817: Olá Pessoal!! boa tarde!!! @⁨3way Academy⁩ tenho uma agenda de trabalho que não estava prevista para hoje e será bem no horário da aula. Se terminar há tempo ainda entrarei na aula ok? Hoje finalizo os exercícios 1 e 2 do projeto airbnb-clone e seu tiver alguma dúvida chamo vcs ok? Ótima aula a todos!!
+13/10/2025 19:23 - 3way Academy: export default function Contact() {
+ return (
+ <div className="contact-card">
+ <img src="/images/felix.png" alt="imagem Mr
+ Whiskerson"/>
+ <h3>Mr. Whiskerson</h3>
+ <div className="info-group">
+ <img src="./images/phone-icon.png" alt="icone
+ fone" />
+ <p>(212) 555-1234</p>
+ </div>
+ <div className="info-group">
+ <img src="./images/mail-icon.png" alt="icone
+ mail" />
+ <p>mr.whiskaz@catnap.meow</p>
+ </div>
+ </div>
+ )
+ }
+13/10/2025 19:26 - 3way Academy: * {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  background-color: whitesmoke;
+}
+.contacts {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.contact-card {
+  flex-basis: 225px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 13px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+.contact-card > img {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  border-radius: 5px;
+  object-fit: cover;
+}
+.contact-card > h3 {
+  font-weight: 700;
+  font-size: 18px;
+}
+.info-group {
+  display: flex;
+  align-items: center;
+}
+.info-group > img {
+  height: 11px;
+  margin-right: 8px;
+}
+.info-group > p {
+  margin-block: 3px;
+  font-size: 12px;
+  color: #2b283a;
+}
+13/10/2025 19:49 - 3way Academy: export default function Contact(props) {
+    console.log(props);
+  return (
+    <div className="contact-card">
+      <img
+        src={props.img}
+        alt="imagem Mr Whiskerson"
+      />
+      <h3>{props.name}</h3>
+      <div className="info-group">
+        <img
+          src="./images/phone-icon.png"
+          alt="icone fone"
+        />
+        <p>{props.phone}</p>
+      </div>
+      <div className="info-group">
+        <img
+          src="./images/mail-icon.png"
+          alt="icone mail"
+        />
+        <p>{props.email}</p>
+      </div>
+    </div>
+  );
+}
+13/10/2025 19:50 - 3way Academy: <Contact
+        img="./images/mr-whiskerson.png"
+        name="Mr. Whiskerson"
+        phone="(212) 555-1234"
+        email="mr.whiskaz@catnap.meow"
+      />
+      <Contact
+        img="./images/fluffykins.png"
+        name="Fluffykins"
+        phone="(212) 555-2345"
+        email="fluff@me.com"
+      />
+      <Contact
+        img="./images/felix.png"
+        name="Felix"
+        phone="(212) 555-4567"
+        email="thecat@hotmail.com"
+      />
+      <Contact
+        img="./images/pumpkin.png"
+        name="Pumpkin"
+        phone="(0800) CAT KING"
+        email="pumpkin@scrimba.com"
+      />
+13/10/2025 19:52 - 3way Academy: import "./styles.css";
+import Contact from "./components/Contact";
+
+function App() {
+  return (
+    <div className="contacts">
+      <Contact
+        img="./images/mr-whiskerson.png"
+        name="Mr. Whiskerson"
+        phone="(212) 555-1234"
+        email="mr.whiskaz@catnap.meow"
+      />
+      <Contact
+        img="./images/fluffykins.png"
+        name="Fluffykins"
+        phone="(212) 555-2345"
+        email="fluff@me.com"
+      />
+      <Contact
+        img="./images/felix.png"
+        name="Felix"
+        phone="(212) 555-4567"
+        email="thecat@hotmail.com"
+      />
+      <Contact
+        img="./images/pumpkin.png"
+        name="Pumpkin"
+        phone="(0800) CAT KING"
+        email="pumpkin@scrimba.com"
+      />
+    </div>
+  );
+}
+
+export default App;
+13/10/2025 20:01 - 3way Academy: export default function Citacoes(props) {
+  return (
+    <div>
+      <h3>Citação: {props.citacao}</h3>
+      <p>Autor: {props.autor}</p>
+      <hr />
+    </div>
+  );
+}
+13/10/2025 20:03 - 3way Academy: import "./styles.css";
+import Citacoes from "./components/Citacoes";
+
+function App() {
+  return (
+    <div>
+      <Citacoes
+        citacao="Creio no riso e nas lágrimas como antídotos contra o ódio e o terror."
+        autor="Charles Chaplin"
+      />
+      <Citacoes
+        citacao="Seja como for o que penses, creio que é melhor dizê-lo com boas palavras."
+        autor="William Shakespeare"
+      />
+      <Citacoes
+        citacao="Creio que tenho prova suficiente de que falo a verdade: a pobreza."
+        autor="Sócrates"
+      />
+      <Citacoes
+        citacao="Creio que quase sempre é preciso um golpe de loucura para se construir um destino."
+        autor="Marguerite Yourcenar"
+      />
+      <Citacoes
+        citacao="Eu creio haver corações que poderiam cortar diamantes."
+        autor="Emanuel Wertheimer"
+      />
+    </div>
+  );
+}
+
+export default App;
+13/10/2025 20:54 - 3way Academy: import "./styles.css";
+import Citacoes from "./components/Citacoes";
+import citacoesData from "./citacoesData";
+
+function App() {
+
+  const elementData = citacoesData.map((elemento) => {
+    return <Citacoes 
+             citacao={elemento.citacao} 
+             autor={elemento.autor} 
+            />;
+  });
+
+  return (
+    <div>
+    {elementData}
+    </div>);
+}
+
+export default App;
+14/10/2025 09:47 - 3way Academy: Bom dia,
+14/10/2025 09:50 - 3way Academy: O projeto GRID estava com entrega para dia 01/10. Quem ainda não entregou favor providenciar o mais rápido possível, pois ao final dos projetos no React o projeto GRID Dashboard deve ser convertido para o React, que por sua vez será utilizado no projeto final...ou seja, sem ele, após a finalização dos projetos no React, tudo trava...
+14/10/2025 09:52 - 3way Academy: Qualquer dúvida ou necessidade de suporte/mentoria me procurem
+14/10/2025 10:03 - 3way Academy: Segue o link da aula 25 - https://youtu.be/q4KNXEKT-z4
+15/10/2025 19:30 - 3way Academy: <div>
+       <Navbar />
+       <Hero />
+       <section className='card-list'>
+         {elementData}
+       </section> 
+    </div>
+15/10/2025 20:03 - 3way Academy: .card-list {
+  display: flex;
+  margin-left: 37px;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px;
+  max-width: 176px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 0px;
+  position: relative;
+}
+
+.card-photo {
+  max-width: 176px;
+  border-radius: 9px;
+}
+
+
+.card-rating {
+  display:flex ;
+  align-items: center;
+}
+
+.star {
+  width: 14px;
+  height: 14px;
+}
+
+.card-badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 10px 8px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+15/10/2025 20:03 - 3way Academy: APP.JSX
+15/10/2025 20:03 - 3way Academy: import "./styles.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Card from "./components/Card";
+import data from "./data";
+
+function App() {
+  const elementData = data.map((elemento) => {
+    return (
+      <Card
+        img={elemento.coverImg}
+        rating={elemento.stats.rating}
+        reviewCount={elemento.stats.reviewCount}
+        country={elemento.location}
+        title={elemento.title}
+        price={elemento.price}
+        openspots={elemento.openSpots}
+      />
+    );
+  });
+
+  return (
+    <>
+      <Navbar />
+      <Hero />
+      <section className="card-list">
+        {elementData}
+      </section>
+    </>
+  );
+}
+
+export default App;
+15/10/2025 20:07 - 3way Academy: @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+15/10/2025 20:08 - 3way Academy: export default function Card(props) {
+
+  return (
+    <div className="card">
+      <img src= {`/images/${props.img}`} className="card-photo" alt="imagem card" />
+      <div className="card-rating">
+        <img src="/images/star.png" className="star" alt="imagem card" />
+        <p>{props.rating} ({props.reviewCount}).{props.country}</p>
+      </div>
+      <p className="card-title">{props.title}</p>
+      <p>
+        <strong>From ${props.price}</strong> / person
+      </p>
+    </div>
+  );
+}
+15/10/2025 20:33 - 3way Academy: Card.jsx
+15/10/2025 20:33 - 3way Academy: export default function Card(props) {
+
+  let badgeText;
+  if (props.openspots === 0) {
+    badgeText = "SOLD OUT";
+  } else if (props.country === "Online") {
+    badgeText = "ONLINE"
+  }
+
+  return (
+    <div className="card">
+      {badgeText && <div className="card-badge">{badgeText}</div>}
+      <img src= {`/images/${props.img}`} className="card-photo" alt="imagem card" />
+      <div className="card-rating">
+        <img src="/images/star.png" className="star" alt="imagem card" />
+        <p>{props.rating} ({props.reviewCount}).{props.country}</p>
+      </div>
+      <p className="card-title">{props.title}</p>
+      <p>
+        <strong>From ${props.price}</strong> / person
+      </p>
+    </div>
+  );
+}
+15/10/2025 20:41 - 3way Academy: npm create vite@latest meme-generator --template
+15/10/2025 20:47 - 3way Academy: App.jsx
+15/10/2025 20:47 - 3way Academy: import "./styles.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Card from "./components/Card";
+import data from "./data";
+
+function App() {
+  const elementData = data.map((elemento) => {
+    return (
+      <Card
+        img={elemento.coverImg}
+        rating={elemento.stats.rating}
+        reviewCount={elemento.stats.reviewCount}
+        country={elemento.location}
+        title={elemento.title}
+        price={elemento.price}
+        openspots={elemento.openSpots}
+      />
+    );
+  });
+
+  return (
+    <>
+      <Navbar />
+      <Hero />
+      <section className="card-list">
+        {elementData}
+      </section>
+    </>
+  );
+}
+
+export default App;
+15/10/2025 20:47 - 3way Academy: styles.css
+15/10/2025 20:47 - 3way Academy: @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  width: 550px;
+  height: 70px;
+  padding-left: 30px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(218, 85, 85, 0.1);
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  max-width: 100px;
+}
+
+section {
+    padding-top: 10px;
+    max-width: 550px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-texto {
+  padding-left: 36px;
+}
+
+
+.hero-texto h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 40px;
+}
+
+.hero-texto p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 17.6px;
+}
+
+.hero-grid {
+  max-width: 400px;
+  margin: auto;
+  padding-top: 26px;
+}
+
+.card-list {
+  display: flex;
+  margin-left: 37px;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px;
+  max-width: 176px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 0px;
+  position: relative;
+}
+
+.card-photo {
+  max-width: 176px;
+  border-radius: 9px;
+}
+
+
+.card-rating {
+  display:flex ;
+  align-items: center;
+}
+
+.star {
+  width: 14px;
+  height: 14px;
+}
+
+.card-badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 10px 8px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+16/10/2025 07:57 - 3way Academy: Bom dia, pessoal
+16/10/2025 07:57 - 3way Academy: Segue o link da aula 26 - https://youtu.be/aYqRGTS8Pj4
+17/10/2025 17:40 - +55 62 8435-5817: olá pessoal
+17/10/2025 17:40 - +55 62 8435-5817: preciso de ajuda com o projeto grid
+17/10/2025 17:41 - +55 62 8435-5817: apanhando pra alinhar uma coluna
+17/10/2025 17:48 - Suriel Dos Reis: Possivelmente o Lisaudo vai lhe ajudar, mas possivelmente precise de um pint.
+17/10/2025 17:48 - Suriel Dos Reis: Outra sugestão é usar a IA para resolver.
+17/10/2025 18:12 - +55 62 8435-5817: tô tentando aqui tb
+17/10/2025 18:12 - +55 62 8435-5817: mas...
+17/10/2025 18:12 - +55 62 8435-5817: tá ruim acertar
+17/10/2025 18:13 - +55 62 8435-5817: kkkk
+17/10/2025 18:13 - +55 62 8435-5817: tomar uma pra turbinar aí sai a solução
+19/10/2025 20:16 - +55 62 8435-5817: <Mídia oculta>
+19/10/2025 20:17 - +55 62 8435-5817: @⁨3way Academy⁩ nem respondeu ao meu chamado!!
+19/10/2025 20:18 - +55 62 8435-5817: ótima noite a todos! e até amanhã
+20/10/2025 08:05 - Suriel Dos Reis: Parabéns!!!!
+20/10/2025 08:06 - Messias Neto Colega 3Way Full Stack JavaScript: ficou bom em
+20/10/2025 08:23 - +55 62 8435-5817: bom dia
+20/10/2025 08:24 - +55 62 8435-5817: ralei pra caramba e ainda não ficou 100%
+20/10/2025 08:36 - 3way Academy: Lembre de verificar, conforme orientação passada, se o layout está em duas colunas no GRID, para facilitar a conversão para o React
+20/10/2025 08:39 - +55 62 8435-5817: Elisaudo! Tentei deixar em duas colunas mas consegui, por isso pedi apoio na sexta! Agora não tem mais tempo pra ajuste
+20/10/2025 08:55 - Suriel Dos Reis: @⁨~DOUGLAS⁩ , bom dia!
+
+Você pode colocar uma "figurinha" ao lado de cada opção do DashBord, segue o código para você inserir a imagem ao lado da palavra: "Home"
+
+<li><i class="fa-solid fa-house"></i> Home</li>
+
+Grande abraço.
+
+O importante é a caminhada.
+20/10/2025 19:11 - 3way Academy: <Mídia oculta>
+20/10/2025 19:11 - 3way Academy: <Mídia oculta>
+20/10/2025 19:11 - 3way Academy: <Mídia oculta>
+20/10/2025 19:11 - 3way Academy: <Mídia oculta>
+20/10/2025 19:35 - Reis Guilherme 3way: #8724AA
+20/10/2025 19:40 - 3way Academy: export default function Header() {
+  return (
+    <header className="header">
+      <img
+        src="./images/troll-face.png"
+        className="header-image"
+        alt="imagem troll"
+      />
+      <h2 className="header-title">Meme Generator</h2>
+      <h4 className="header-project">React Course - Project 3</h4>
+    </header> 
+  );
+}
+20/10/2025 19:48 - 3way Academy: * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  margin: 0;
+}
+
+main {
+  padding: 36px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  color: white;
+  padding: 20px;
+}
+
+.header-image {
+  height: 100%;
+  margin-right: 6px;
+}
+
+.header-title {
+  font-size: 1.25rem;
+  margin-right: auto;
+}
+
+.header-project {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.form {
+  display: grid;
+  grid-template: 40px 40px / 1fr 1fr;
+  gap: 17px;
+  margin-bottom: 17px;
+}
+
+.form-input {
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  border: 1px solid #D5D4D8;
+  text-indent: 5px;
+}
+
+.form-button {
+  grid-column: 1 / -1;
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.meme {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.meme-image {
+  max-width: 100%;
+  border-radius: 3px;
+}
+
+.meme-text {
+  position: absolute;
+  width: 80%;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: impact, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow:
+      2px 2px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+      0 2px 0 #000,
+      2px 0 0 #000,
+      0 -2px 0 #000,
+      -2px 0 0 #000,
+      2px 2px 5px #000;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.top {
+  top: 0;
+}
+20/10/2025 20:20 - 3way Academy: let url;
+
+    function getMemeImage() {
+        const memesArray = memesData.data.memes;
+        const randomNumber = Math.floor(Math.random() * memesArray.length);
+        url = memesArray[randomNumber].url;
+        console.log(url);
+    }
+20/10/2025 20:22 - 3way Academy: * {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #70b85d;
+  color: white;
+  padding: 20px;
+  font-family: "Karla", sans-serif;
+  font-size: 1.3rem;
+}
+
+button {
+  width: 100%;
+  background-color: transparent;
+  padding: 1rem;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: "Karla", sans-serif;
+  margin-bottom: 20px;
+}
+button:hover {
+  background-color: #fffef1;
+  color: #2c5e2e;
+}
+button:focus {
+  outline: 0;
+}
+20/10/2025 20:23 - 3way Academy: import "./styles.css";
+
+export default function App() {
+  const thingsArray = ["Thing 1", "Thing 2"];
+
+  function addItem() {
+    const newThingText = `Thing ${thingsArray.length + 1}`;
+    thingsArray.push(newThingText);
+    console.log(thingsArray);
+  }
+
+  const thingsElements = thingsArray.map((thing) => <p key={thing}>{thing}</p>);
+
+  return (
+    <div>
+      <button onClick={addItem}>Add Item</button>
+      {thingsElements}
+    </div>
+  );
+}
+20/10/2025 20:34 - 3way Academy: import { useState } from "react";
+import "./styles.css";
+
+export default function App() {
+
+  const [isImportant, setIsImportant] = useState("Yes");
+
+  function handleClick() {
+    setIsImportant("No");
+  }
+
+  return (
+    <div className="state">
+      <h1 className="state-title">Is state important to know?</h1>
+      <div className="state-value" onClick={handleClick}>
+        <h1>{isImportant}</h1>
+      </div>
+    </div>
+  );
+}
+20/10/2025 20:35 - 3way Academy: * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #262626;
+  color: #d9d9d9;
+  padding: 20px;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.state-title {
+  text-align: center;
+}
+
+.state-value {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #262626;
+}
+20/10/2025 20:48 - 3way Academy: import { useState } from "react";
+import "./styles.css";
+
+export default function App() {
+  
+  const [count, setCount] = useState(0);
+
+  return (
+    <div className="counter">
+      <button className="counter-minus">–</button>
+      <div className="counter-count">
+        <h1>{count}</h1>
+      </div>
+      <button className="counter-plus">+</button>
+    </div>
+  );
+}
+20/10/2025 20:48 - 3way Academy: * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #262626;
+  color: #d9d9d9;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  display: flex;
+
+  align-items: flex-end;
+}
+
+.counter > button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  background-color: #737373;
+  color: #d9d9d9;
+  font-size: 1.5rem;
+}
+
+.counter > button:hover {
+  background-color: #404040;
+  color: #d9d9d9;
+}
+
+.counter > button:focus {
+  outline: none;
+}
+
+.counter-count {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #262626;
+}
+
+.counter-plus {
+  margin-left: -20px;
+}
+
+.counter-minus {
+  margin-right: -20px;
+  z-index: 1;
+}
+20/10/2025 20:52 - 3way Academy: subtract
+21/10/2025 12:42 - 3way Academy: Bom dia, pessoal
+21/10/2025 12:42 - 3way Academy: Segue o link da aula 27 - https://youtu.be/Icb9vb5AoTE
+22/10/2025 16:18 - Suriel Dos Reis: @⁨3way Academy⁩ , Elisaudo, poderia informar quantos encontros ainda temos, e qual o cronograma?
+
+O fato é que tenho mais interesse no CRUD do que nos exercícios até o momento apresentado.
+
+Aguardo retorno. Obrigado!
+22/10/2025 16:58 - 3way Academy: Na aula farei os esclarecimentos.
+22/10/2025 19:13 - 3way Academy: <div className="meme">
+        <img src={} className="meme-image" alt="imagem meme" />
+      </div>
+22/10/2025 19:26 - 3way Academy: "http://i.imgflip.com/1bij.jpg"
+22/10/2025 19:54 - 3way Academy: import {useState} from "react";
+import memesData from "../memesData.js";
+
+export default function Meme() {
+    
+    const [meme, setMeme] = useState({
+      topText: "",
+      bottomText: "",
+      randomImage: "http://i.imgflip.com/1bij.jpg"
+    });
+
+    const[allMemeImages, setAllMemeImages] = useState(memesData);
+
+    function getMemeImage() {
+        const memesArray = allMemeImages.data.memes;
+        const randomNumber = Math.floor(Math.random() * memesArray.length);
+        const url = memesArray[randomNumber].url;
+        setMeme(prevMeme => ({
+           ...prevMeme,
+           randomImage: url
+        }));
+    }
+
+  return (
+    <main>
+      <div className="form">
+        <input 
+         type="text" 
+         placeholder="Top text" 
+         className="form-input" 
+        />
+
+        <input 
+          type="text" 
+          placeholder="Bottom text" 
+          className="form-input" 
+        />
+
+        <button className="form-button" onClick={getMemeImage}>
+          Get a new meme image � �
+        </button>
+      </div>
+      <div className="meme">
+        <img src={meme.randomImage} className="meme-image" alt="imagem meme" />
+      </div>
+    </main>
+  );
+}
+22/10/2025 20:21 - 3way Academy: <h2 className="meme-text top">{}</h2>
+        <h2 className="meme-text bottom">{}</h2>
+22/10/2025 20:22 - 3way Academy: import {useState} from "react";
+import memesData from "../memesData.js";
+
+export default function Meme() {
+    
+    const [meme, setMeme] = useState({
+      topText: "",
+      bottomText: "",
+      randomImage: "http://i.imgflip.com/1bij.jpg"
+    });
+
+    const[allMemeImages, setAllMemeImages] = useState(memesData);
+
+    function getMemeImage() {
+        const memesArray = allMemeImages.data.memes;
+        const randomNumber = Math.floor(Math.random() * memesArray.length);
+        const url = memesArray[randomNumber].url;
+        setMeme(prevMeme => ({
+           ...prevMeme,
+           randomImage: url
+        }));
+    }
+
+    function handleChange(event) {
+      const {name, value} = event.target;
+      setMeme(prevMeme => ({
+        ...prevMeme,
+        [name]: value
+      }));
+    }
+
+  return (
+    <main>
+      <div className="form">
+        <input 
+         type="text" 
+         placeholder="Top text" 
+         className="form-input"
+         name="topText"
+         value={meme.topText}
+         onChange={handleChange} 
+        />
+
+        <input 
+          type="text" 
+          placeholder="Bottom text" 
+          className="form-input"
+          name="bottomText"
+         value={meme.bottomText}
+         onChange={handleChange}          
+        />
+
+        <button className="form-button" onClick={getMemeImage}>
+          Get a new meme image � �
+        </button>
+      </div>
+      <div className="meme">
+        <img src={meme.randomImage} className="meme-image" alt="imagem meme" />
+        <h2 className="meme-text top">{}</h2>
+        <h2 className="meme-text bottom">{}</h2>
+      </div>
+    </main>
+  );
+}
+22/10/2025 20:38 - 3way Academy: "https://api.imgflip.com/get_memes"
+22/10/2025 20:53 - 3way Academy: import {useState, useEffect} from "react";
+
+
+export default function Meme() {
+    
+    const [meme, setMeme] = useState({
+      topText: "",
+      bottomText: "",
+      randomImage: "http://i.imgflip.com/1bij.jpg"
+    });
+
+    const[allMemes, setAllMemes] = useState([]);
+
+    useEffect(() => {
+      fetch("https://api.imgflip.com/get_memes")
+      .then (res => res.json())
+      .then (data => setAllMemes(data.data.memes))
+    },[] );
+
+    function getMemeImage() {
+        const memesArray = allMemes;
+        const randomNumber = Math.floor(Math.random() * memesArray.length);
+        const url = memesArray[randomNumber].url;
+        setMeme(prevMeme => ({
+           ...prevMeme,
+           randomImage: url
+        }));
+    }
+
+    function handleChange(event) {
+      const {name, value} = event.target;
+      setMeme(prevMeme => ({
+        ...prevMeme,
+        [name]: value
+      }));
+    }
+
+  return (
+    <main>
+      <div className="form">
+        <input 
+         type="text" 
+         placeholder="Top text" 
+         className="form-input"
+         name="topText"
+         value={meme.topText}
+         onChange={handleChange} 
+        />
+
+        <input 
+          type="text" 
+          placeholder="Bottom text" 
+          className="form-input"
+          name="bottomText"
+         value={meme.bottomText}
+         onChange={handleChange}          
+        />
+
+        <button className="form-button" onClick={getMemeImage}>
+          Get a new meme image � �
+        </button>
+      </div>
+      <div className="meme">
+        <img src={meme.randomImage} className="meme-image" alt="imagem meme" />
+        <h2 className="meme-text top">{meme.topText}</h2>
+        <h2 className="meme-text bottom">{meme.bottomText}</h2>
+      </div>
+    </main>
+  );
+}
+22/10/2025 21:11 - 3way Academy: Entrega do Dashboard convertido para o React - até dia 31/10
+22/10/2025 22:27 - Suriel Dos Reis: 
+23/10/2025 10:54 - 3way Academy: Bom dia, pessoal
+23/10/2025 10:54 - 3way Academy: Segue o link da aula 28 - https://youtu.be/zabjMM-d7H8
+24/10/2025 08:12 - Reis Guilherme 3way: Bom dia Elisaudo
+24/10/2025 08:12 - Reis Guilherme 3way: Referente a conversão do dashboard para react, precisamos colocar todo o html no APP.jsx ou podemos criar cada classe no components
+24/10/2025 09:37 - 3way Academy: Bom dia
+24/10/2025 09:38 - 3way Academy: 1 - Crie os componentes para o Dashboard, com seus respectivos CSS / classe. Ex. Compenente Header, Sidebar e Content (para o conteúdo dos cards)
+24/10/2025 09:39 - 3way Academy: 2 - importas estes componentes no App.jsx. O App.jsx seria como se fosse o seu container da página no HTML
+24/10/2025 09:42 - 3way Academy: Coloque as classe no App.jsx e nos componentes, para usar o CSS GRID. Para colocar os componentes nos limites coluna e linha do GRID.
+24/10/2025 09:43 - 3way Academy: 4 - lembre de reaproveitar todo o código já existente.
+24/10/2025 09:44 - 3way Academy: 5 -O layout do GRID deve ter 2 colunas e 2 linhas
+24/10/2025 09:56 - 3way Academy: <Mídia oculta>
+27/10/2025 18:08 - +55 62 8435-5817: olá boa noite! Pessoal tenho um compromisso hoje agora noite e não poderei participar da aula! Mas amanhã assistirei a para me atualizar ok? Ótima aula  todos
+27/10/2025 18:59 - Suriel Dos Reis: <Mídia oculta>
+27/10/2025 19:09 - 3way Academy: npm install react-router-dom
+27/10/2025 19:19 - 3way Academy: function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Home View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+27/10/2025 19:22 - 3way Academy: function About() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>About View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+27/10/2025 19:27 - 3way Academy: function NoMatch() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>404: Page Not Found</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+27/10/2025 19:38 - 3way Academy: <nav style={{ margin: 10 }}>
+        <Link to="/" style={{ padding: 5 }}>
+          Home
+        </Link>
+        <Link to="/about" style={{ padding: 5 }}>
+          About
+        </Link>
+      </nav>
+27/10/2025 19:46 - 3way Academy: const BlogPosts = {
+  "first-blog-post": {
+    title: "First Blog Post",
+    description: "Lorem ipsum dolor sit amet, consectetur adip.",
+  },
+  "second-blog-post": {
+    title: "Second Blog Post",
+    description: "Hello React Router v6",
+  },
+};
+27/10/2025 19:49 - 3way Academy: function Posts() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Blog</h2>
+      <Outlet />
+    </div>
+  );
+}
+27/10/2025 19:53 - 3way Academy: function PostLists() { 
+  return ( 
+    <ul> 
+      {Object.entries(BlogPosts).map(([slug, { title }]) => ( 
+        <li key={slug}> 
+          <h3>{title}</h3> 
+        </li> 
+      ))} 
+    </ul> 
+  ); 
+}
+27/10/2025 20:04 - 3way Academy: <Mídia oculta>
+27/10/2025 20:20 - 3way Academy: function Post() {
+  const { slug } = useParams();
+  const post = BlogPosts[slug];
+  if (!post) {
+    return <span>The blog post you've requested doesn't exist.</span>;
+  }
+  const { title, description } = post;
+  return (
+    <div style={{ padding: 20 }}>
+      <h3>{title}</h3>
+      <p>{description}</p>
+    </div>
+  );
+}
+27/10/2025 20:21 - 3way Academy: import { BrowserRouter as Router, Routes, Route, Link, Outlet, useParams} from "react-router-dom";
+
+const BlogPosts = {
+  "first-blog-post": {
+    title: "First Blog Post",
+    description: "Lorem ipsum dolor sit amet, consectetur adip.",
+  },
+  "second-blog-post": {
+    title: "Second Blog Post",
+    description: "Hello React Router v6",
+  },
+};
+
+function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Home View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+function About() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>About View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+function NoMatch() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>404: Page Not Found</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+function Posts() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Blog</h2>
+      <Outlet />
+    </div>
+  );
+}
+
+function PostLists() { 
+  return ( 
+    <ul> 
+      {Object.entries(BlogPosts).map(([slug, { title }]) => ( 
+        <li key={slug}>
+          <Link to={`/posts/${slug}`}>
+            <h3>{title}</h3> 
+          </Link> 
+        </li> 
+      ))} 
+    </ul> 
+  ); 
+} 
+
+function Post() {
+  const { slug } = useParams();
+  const post = BlogPosts[slug];
+  if (!post) {
+    return <span>The blog post you've requested doesn't exist.</span>;
+  }
+  const { title, description } = post;
+  return (
+    <div style={{ padding: 20 }}>
+      <h3>{title}</h3>
+      <p>{description}</p>
+    </div>
+  );
+}
+
+export default function App() {
+  return (
+    <Router>
+      <nav style={{ margin: 10 }}>
+        <Link to="/" style={{ padding: 5 }}>
+          Home
+        </Link>
+        <Link to="/about" style={{ padding: 5 }}>
+          About
+        </Link>
+        <Link to="/posts" style={{ padding: 5 }}>
+          Posts
+        </Link>
+      </nav>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/posts" element={<Posts />}>
+            <Route index element={<PostLists />} />
+            <Route path=":slug" element={<Post />} />
+        </Route>
+        <Route path="/about" element={<About />} />
+        <Route path="*" element={<NoMatch />} />
+      </Routes>
+    </Router>
+  );
+}
+27/10/2025 20:42 - 3way Academy: <Mídia oculta>
+28/10/2025 08:00 - 3way Academy: Bom dia, pessoal
+28/10/2025 08:01 - 3way Academy: Segue o link da aula 29 - https://youtu.be/WjSwNMrm10E
+28/10/2025 21:03 - +55 62 8435-5817: boa noite a todos
+28/10/2025 21:05 - +55 62 8435-5817: estou assistindo a aula de ontem e no primeiro teste não executou, conseguem me direcionar para onde estou errando? Segue o código:
+
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+
+function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Home View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+export default function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
+  );
+}
+28/10/2025 21:06 - +55 62 8435-5817: não executa a página
+28/10/2025 21:12 - +55 62 8435-5817: consegui corrigir mas mesmo assim ainda executa:
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Home View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+export default function App() {
+  return <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>;
+}
+28/10/2025 21:18 - Suriel Dos Reis: Caro Douglas, boa noite! Valendo uma coca-cola gelada hein!!! <Mensagem editada>
+28/10/2025 21:19 - Suriel Dos Reis: Primeiramente você já rodouo comando no terminal: npm run dev <Mensagem editada>
+28/10/2025 21:20 - Suriel Dos Reis: Depois deve clicar no link do servidor gerado.
+28/10/2025 21:21 - Suriel Dos Reis: Descompacte esse zip dentro do seu SRC
+28/10/2025 21:22 - Suriel Dos Reis: <Mídia oculta>
+28/10/2025 21:22 - Suriel Dos Reis: Possivelmente sobreponha algum arquivo local, se for o caso faça em um outro diretório.
+28/10/2025 21:22 - +55 62 8435-5817: opa @⁨Suriel Dos Reis⁩ !!! Sim, rodei o rum dev
+28/10/2025 21:23 - +55 62 8435-5817: esse não tem no my-lab, tem?
+28/10/2025 21:24 - +55 62 8435-5817: fiz uma correção que encontrei, mas tb não executou
+28/10/2025 21:24 - +55 62 8435-5817: import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Home View</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+    </div>
+  );
+}
+
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
+  );
+}
+28/10/2025 21:26 - Suriel Dos Reis: Douglas, copie o My-Lab para My-Lab02 , a partir daí use o My-Lab02.
+28/10/2025 21:26 - +55 62 8435-5817: blz
+28/10/2025 21:27 - +55 62 8435-5817: o pior é que não funcionar não consigo avançar
+28/10/2025 21:30 - Suriel Dos Reis: Douglas, consigo te ajudar com o resultado final da aula, a caminhada é meio complicado .
+28/10/2025 21:31 - +55 62 8435-5817: já ajuda bastante!!!
+28/10/2025 21:34 - +55 62 8435-5817: faz assim, consegue reproduzir aí no seu my-lab002 o mesmo código que enviei?
+28/10/2025 21:35 - Suriel Dos Reis: Minutinho, estou gerando uma versão nova do My-Lab
+28/10/2025 21:40 - +55 62 8435-5817: tô achando que pode ser o demais .jsx
+28/10/2025 21:44 - Suriel Dos Reis: Douglas, você rodou o comando: npm install react-router-dom
+28/10/2025 21:45 - +55 62 8435-5817: sim,
+28/10/2025 21:45 - +55 62 8435-5817: no my-lab002 tb
+28/10/2025 21:55 - Suriel Dos Reis: Douglas, vamos fazer diferente, eu vou mandar o código do App.jsx , você copia e cola e executa, vamos ver se dá certo.
+28/10/2025 21:55 - Suriel Dos Reis: Pode ser?
+28/10/2025 21:55 - Messias Neto Colega 3Way Full Stack JavaScript: manda foto da sua tela  pra ver como que tá
+28/10/2025 21:56 - +55 62 8435-5817: blz
+28/10/2025 21:56 - Suriel Dos Reis: <Mídia oculta>
+28/10/2025 21:57 - +55 62 8435-5817: isso no my-lab002, certo?
+28/10/2025 21:57 - Suriel Dos Reis: Isso, substitua o App.jsx <Mensagem editada>
+28/10/2025 22:00 - Suriel Dos Reis: Douglas, tem que ficar com essa cara
+28/10/2025 22:00 - Suriel Dos Reis: <Mídia oculta>
+28/10/2025 22:00 - +55 62 8435-5817: blz
+28/10/2025 22:01 - Suriel Dos Reis: Douglas, eu tenho várias versões do My-Lab
+28/10/2025 22:01 - Suriel Dos Reis: <Mídia oculta>
+28/10/2025 22:01 - +55 62 8435-5817: eita!!!
+28/10/2025 22:01 - +55 62 8435-5817: kkkk
+28/10/2025 22:03 - +55 62 8435-5817: tô baixando o winrar que não tenho aqui, e já executo de novo
+28/10/2025 22:05 - Suriel Dos Reis: Renomei o rar para zip e desconpacte normalmente.
+28/10/2025 22:13 - Suriel Dos Reis: Iai Douglas, deu certo?
+28/10/2025 22:13 - +55 62 8435-5817: não
+28/10/2025 22:14 - +55 62 8435-5817: vou te mandar o print do App.jsx e main.jsx
+28/10/2025 22:16 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:16 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:16 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:16 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:18 - Suriel Dos Reis: Aparentemente não tem erro, agora quero ver a imagem do terminal.
+28/10/2025 22:20 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:21 - Suriel Dos Reis: Ok , agora quero a imagem do navegador
+28/10/2025 22:22 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:25 - Suriel Dos Reis: Douglas, rode esse comando no terminal novamente e me mostre o resultado: npm install react-router-dom
+28/10/2025 22:25 - +55 62 8435-5817: blz
+28/10/2025 22:26 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:27 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:28 - +55 62 8435-5817: nem no console mostra o que pode ser
+28/10/2025 22:29 - Suriel Dos Reis: Feche essa página e abra novamente.
+28/10/2025 22:29 - +55 62 8435-5817: já tô usando My-lab002
+28/10/2025 22:32 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:33 - Suriel Dos Reis: Como um ato de desespero, feche o VS Code e abra novamente, execute:  npm run dev
+28/10/2025 22:34 - +55 62 8435-5817: só faltou isso!! lll
+28/10/2025 22:34 - +55 62 8435-5817: kkkkk
+28/10/2025 22:34 - +55 62 8435-5817: veja se a versão o Router é essa aí tb
+28/10/2025 22:35 - +55 62 8435-5817: <Mídia oculta>
+28/10/2025 22:39 - Suriel Dos Reis: Isso mesmo, é a mesma versão.
+28/10/2025 22:40 - +55 62 8435-5817: então, não sei mais!1!! kkkk
+28/10/2025 22:40 - +55 62 8435-5817: já reiniciei o vscode e continua
+28/10/2025 22:40 - +55 62 8435-5817: vamos dormir e amanhã continuo a saga
+28/10/2025 22:40 - +55 62 8435-5817: te agradeço pelo apoio
+28/10/2025 22:41 - +55 62 8435-5817: até amanhã, obrigado
+28/10/2025 22:41 - Suriel Dos Reis: Beleza, boa noite!
+28/10/2025 22:53 - +55 62 8435-5817: @⁨Suriel Dos Reis⁩ achei o problema
+28/10/2025 22:53 - +55 62 8435-5817: uffa!
+29/10/2025 09:18 - Suriel Dos Reis: Beleza, conta aí qual era o problema!
+29/10/2025 09:20 - +55 62 8435-5817: coisa ridícula! O problema tava no apontamento do Index.html
+29/10/2025 09:24 - Suriel Dos Reis: Uai!! você havia feito mudanças no index.html?
+29/10/2025 09:29 - Suriel Dos Reis: @⁨~DOUGLAS⁩ , se possível, quando possível dê um print do html para mim, obrigado! Estou bem curioso.
+29/10/2025 09:37 - +55 62 8435-5817: devo ter alterado e não voltei para o padrão
+29/10/2025 09:38 - +55 62 8435-5817: a tarde envio pra vc
+29/10/2025 09:38 - +55 62 8435-5817: mas vacilei, podia ter instalado um novo projeto My-Lab...
+29/10/2025 09:40 - Suriel Dos Reis: Eu pessoalmente nunca havia alterado o index.html
+29/10/2025 09:40 - +55 62 8435-5817: tava o main.jsx
+29/10/2025 19:10 - 3way Academy: <Mídia oculta>
+29/10/2025 19:11 - 3way Academy: <Mídia oculta>
+29/10/2025 19:26 - 3way Academy: <Mídia oculta>
+29/10/2025 20:04 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+29/10/2025 20:21 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+29/10/2025 20:38 - 3way Academy: <Mídia oculta>
+29/10/2025 20:40 - 3way Academy: <Mídia oculta>
+29/10/2025 20:41 - 3way Academy: npm install -D json-server
+29/10/2025 20:43 - 3way Academy: npx json-server --watch src/db.json --port 3004
+29/10/2025 20:46 - 3way Academy: http://localhost:3004/books
+29/10/2025 20:55 - 3way Academy: <Mídia oculta>
+30/10/2025 08:33 - 3way Academy: Bom dia, pessoal
+30/10/2025 08:33 - 3way Academy: Segue o link da aula 30 - https://youtu.be/TgsakNfGSgQ
+02/11/2025 11:44 - +55 62 8435-5817: bom dia!
+02/11/2025 11:45 - Reis Guilherme 3way: Bom dia
+02/11/2025 11:47 - +55 62 8435-5817: dúvida, posso criar a estrutura do componentes separando cada componente e seu respectivo CSS? Exemplo: Header.jsx e Header.CSS
+02/11/2025 11:47 - +55 62 8435-5817: ou deixa CSS separado mesmo
+02/11/2025 11:48 - +55 62 8435-5817: ou fora do components?
+02/11/2025 11:48 - Messias Neto Colega 3Way Full Stack JavaScript: eu acho q não mano, creio q o CSS deve ser só no styles
+02/11/2025 11:49 - +55 62 8435-5817: entendi! vlw!
+02/11/2025 11:49 - Reis Guilherme 3way: Já finalizaram a conversão?
+02/11/2025 11:49 - +55 62 8435-5817: comecei agora
+02/11/2025 11:49 - Reis Guilherme 3way: Vou fazer o meu agora também
+02/11/2025 14:47 - +55 62 8435-5817: primeira parte da migração já foi
+02/11/2025 14:47 - +55 62 8435-5817: eita!
+02/11/2025 20:17 - +55 62 8435-5817: pessoal, boa noite! Alguém conseguiu terminar a migração?
+02/11/2025 20:17 - +55 62 8435-5817: apanhando aqui de Rotas
+02/11/2025 20:18 - Reis Guilherme 3way: Eu conclui
+02/11/2025 20:20 - Messias Neto Colega 3Way Full Stack JavaScript: vou fazer o meu amanhã
+02/11/2025 20:23 - Reis Guilherme 3way: Manda aí mano oque tá dando
+02/11/2025 20:27 - +55 62 8435-5817: não consigo evoluir com o router
+02/11/2025 20:27 - Messias Neto Colega 3Way Full Stack JavaScript: como assim?
+02/11/2025 20:28 - +55 62 8435-5817: acho que é o Domingo, cansado já !!
+02/11/2025 22:17 - Suriel Dos Reis: Boa noite!!!
+
+@⁨Messias Neto Colega 3Way Full Stack JavaScript⁩ , conforme combinado você já preparou a aula de Git?
+02/11/2025 22:17 - Messias Neto Colega 3Way Full Stack JavaScript: já sim
+02/11/2025 22:17 - Messias Neto Colega 3Way Full Stack JavaScript: é rapidão
+03/11/2025 13:40 - Messias Neto Colega 3Way Full Stack JavaScript: Boa tarde
+03/11/2025 13:41 - Messias Neto Colega 3Way Full Stack JavaScript: alguém ai concluiu a migração para o Routes?
+03/11/2025 13:42 - Suriel Dos Reis: eu não.
+03/11/2025 13:43 - Messias Neto Colega 3Way Full Stack JavaScript: o código do pdf pra mim está errado...
+03/11/2025 14:14 - +55 62 8435-5817: boa  tarde!!
+03/11/2025 14:14 - +55 62 8435-5817: terminei agora,
+03/11/2025 14:14 - +55 62 8435-5817: sim!! demorei pra perceber isso, por não dava certo
+03/11/2025 14:14 - +55 62 8435-5817: <Mídia oculta>
+03/11/2025 14:15 - Messias Neto Colega 3Way Full Stack JavaScript: to tentando descobrir aq, mas to apanhando aq
+03/11/2025 14:27 - 3way Academy: Mensagem apagada
+03/11/2025 14:27 - 3way Academy: Parabéns. Seu design ficou muito bom. Bem profissional
+03/11/2025 14:31 - +55 62 8435-5817: tenho algumas dúvidas, mas a noite falamos sobre
+03/11/2025 19:17 - +55 62 8435-5817: sem energia!
+03/11/2025 19:17 - Messias Neto Colega 3Way Full Stack JavaScript: vixe
+03/11/2025 19:26 - +55 62 8435-5817: tô sem áudio!!
+03/11/2025 19:27 - +55 62 8435-5817: voltei mas estou sem áudio
+03/11/2025 19:27 - +55 62 8435-5817: estou vendo a tela, mas sem áudio
+03/11/2025 19:32 - +55 62 8435-5817: tô ouvindo
+03/11/2025 19:32 - +55 62 8435-5817: só não consigo falar com vcs
+03/11/2025 19:32 - +55 62 8435-5817: tô acompanhando
+03/11/2025 19:32 - 3way Academy: Caso queira falar, conecte o celular no Zoom tbm
+03/11/2025 19:38 - 3way Academy: entry point: (index.js) app.js
+03/11/2025 19:47 - 3way Academy: npm i express mongoose body-parser config
+03/11/2025 19:56 - 3way Academy: npm i -D nodemon
+03/11/2025 19:58 - 3way Academy: "start": "node app.js",
+    "app": "nodemon app.js",
+03/11/2025 20:15 - 3way Academy: https://www.mongodb.com/
+03/11/2025 20:31 - 3way Academy: default.json
+03/11/2025 20:31 - 3way Academy: db.js
+03/11/2025 20:31 - 3way Academy: {
+
+  "mongoURI" : 
+
+}
+03/11/2025 20:44 - 3way Academy: const mongoose = require("mongoose");
+
+const config = require("config");
+
+const db = config.get("mongoURI");
+
+const connectDB = async () => {
+  try {
+    mongoose.set("strictQuery", true);
+    await mongoose.connect(db, { useNewUrlParser: true });
+
+    console.log("MongoDB está conectado...");
+  } catch (err) {
+    console.error(err.message);
+    process.exit(1);
+  }
+};
+
+module.exports = connectDB;
+03/11/2025 20:48 - 3way Academy: app.js
+03/11/2025 20:48 - 3way Academy: const express = require('express');
+
+const connectDB = require('./config/db');
+
+const app = express();
+
+// Conecta o banco de dados
+connectDB();
+
+app.get('/', (req, res) => res.send('Hello world!'));
+
+const port = process.env.PORT || 8082;
+
+app.listen(port, () => console.log(`Server running on port ${port}`));
+03/11/2025 21:07 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+03/11/2025 21:07 - 3way Academy: <Mídia oculta>
+03/11/2025 21:07 - 3way Academy: <Mídia oculta>
+03/11/2025 21:13 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+03/11/2025 21:17 - Suriel Dos Reis: Messias, deu certo, obrigado!
+03/11/2025 21:17 - Messias Neto Colega 3Way Full Stack JavaScript: valeu
+03/11/2025 23:27 - Suriel Dos Reis: Messias, parabéns pela iniciativa, mas a SUGESTÃO é de usar o aplicativo OBS para fazer a gravação da tela, aula, etc.
+
+Grande abraço.
+04/11/2025 00:09 - Suriel Dos Reis: Mestre Elisaudo, após a aula subi todo o projeto para o Git, veja a mensagem que recebi do suporte GIT
+04/11/2025 00:09 - Suriel Dos Reis: <Mídia oculta>
+04/11/2025 00:10 - Suriel Dos Reis: Sei que o foco do curso não é segurança, mas poderia ponderar sobre o assunto? Assim como usar o .gitignore e outras formas mais seguras de conexão ao MongoDB.
+04/11/2025 00:11 - Suriel Dos Reis: Certo do seu pronto atendimento, até a próxima dúvida.
+04/11/2025 08:02 - Messias Neto Colega 3Way Full Stack JavaScript: nem lembrei mano kkkkk, só fiz rapidamente
+04/11/2025 09:02 - 3way Academy: Neste momento, somente retire da aplicação a string de acesso ao banco de dados. Mais a frente será configurado o .gitignore
+04/11/2025 12:04 - 3way Academy: Bom dia, pessoal
+04/11/2025 12:05 - 3way Academy: Segue o link da aula 31 - https://youtu.be/cGqnCCCWAs0
+05/11/2025 19:04 - +55 62 8435-5817: alguém lembra a senha do DB?
+05/11/2025 19:04 - +55 62 8435-5817: é livraria01?
+05/11/2025 19:05 - Messias Neto Colega 3Way Full Stack JavaScript: acho q é mano
+05/11/2025 19:10 - Suriel Dos Reis: livraria123
+05/11/2025 19:25 - 3way Academy: routes
+05/11/2025 20:16 - 3way Academy: const {default: mongoose} = require('mongoose');
+
+const BookSchema = new mongoose.Schema({
+    title: {
+        type: String,
+        required: true
+    },
+    isbn: {
+        type: String,
+        required: true
+    },    
+    author: {
+        type: String,
+        required: true
+    },
+    description: {
+        type: String
+    },
+    published_date: {
+        type: Date
+    },
+    publisher: {
+        type: String,
+    },
+    updated_date: {
+        type: Date,
+        default: Date.now
+    },
+});
+
+module.exports = Book = mongoose.model('book', BookSchema);
+05/11/2025 20:16 - 3way Academy: const express = require('express');
+
+const router = express.Router();
+
+// Carrega o book model (schema)
+const Book = require('../../models/Book');
+
+//GET api/books/test
+//Rota para testar livros
+router.get('/test', (req, res) => res.send('Testando rota book'));
+
+//GET api/books
+//Pegar todos os livros
+router.get('/', (req, res) => {
+    Book.find()
+     .then(books => res.json(books))
+     .catch(err => res.status(404).json({nobooksfound: 'Nenhum livro encontrado'}));
+});
+
+//GET api/books/:id
+//Pegar único livro por id
+router.get('/:id', (req, res) => {
+    Book.findById(req.params.id)
+     .then(book => res.json(book))
+     .catch(err => res.status(404).json({nobooksfound: 'Nenhum livro encontrado'}));
+});
+
+//POST api/books
+//Adicionar/salvar livro
+router.post('/', (req, res) => {
+    Book.create(req.body)
+     .then(book => res.json({msg: 'Livro adicionado com sucesso'}))
+     .catch(err => res.status(400).json({error: 'Não foi possível adicionar este livro'}));
+});
+
+//PUT api/books/:id
+//Atualizar livro
+router.put('/:id', (req, res) => {
+    Book.findByIdAndUpdate(req.params.id, req.body)
+     .then(book => res.json({msg: 'Atualizado com sucesso'}))
+     .catch(err => res.status(400).json({error: 'Não foi possível atualizar a base de dados'}));
+});
+
+//DELETE api/books/:id
+//deletar livro por id
+router.delete('/:id', (req, res) => {
+    Book.findByIdAndDelete(req.params.id, req.body)
+     .then(book => res.json({msg: 'Livro deletado com sucesso'}))
+     .catch(err => res.status(400).json({error: 'Não existe este livro'}));
+});
+05/11/2025 20:25 - 3way Academy: const express = require('express');
+
+const connectDB = require('./config/db');
+
+const booksRoutes = require('./routes/api/books');
+
+const app = express();
+
+//Middleware
+app.get('/', (req, res) => res.send('Hello world!'));
+app.use(express.json({extended:false}));
+
+// Conecta o banco de dados
+connectDB();
+
+//Rotas
+app.use('api/books', booksRoutes);
+
+const port = process.env.PORT || 8082;
+
+app.listen(port, () => console.log(`Server running on port ${port}`));
+05/11/2025 20:48 - 3way Academy: "mongodb+srv://livraria:livraria123@cluster0.h89cqy4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+05/11/2025 20:55 - 3way Academy: <Mídia oculta>
+05/11/2025 21:14 - Reis Guilherme 3way: Books.js
+const {default : mongoose} = require('mongoose');
+
+const BookSchema = new mongoose.Schema({
+    title: {
+        type: String,
+        required: true
+    },
+        isbn: {
+        type: String,
+        required: true
+    },
+        author: {
+        type: String,
+        required: true
+    },
+        description: {
+        type: String,
+    },
+        published_date: {
+        type: Date
+    },
+        publisher: {
+        type: String   
+    },
+        updated_date: {
+        type: Date,
+        default: Date.now
+    },
+
+});
+
+module.exports = mongoose.model('Book', BookSchema);
+05/11/2025 21:15 - Reis Guilherme 3way: <Mídia oculta>
+05/11/2025 21:15 - Reis Guilherme 3way: <Mídia oculta>
+05/11/2025 21:25 - 3way Academy: Achei o problema
+05/11/2025 21:26 - 3way Academy: Comentem a linha 10 do app.js //app.get('/', (req, res) => res.send('Hello world!'));
+05/11/2025 21:26 - 3way Academy: Ela tem que estar abaixo do app.use(express.json({extended:false}));
+05/11/2025 21:28 - 3way Academy: Pois GET e POST só funcionam depois do middleware app.use(express.json())
+05/11/2025 21:29 - 3way Academy: No material já está certo
+05/11/2025 22:49 - Suriel Dos Reis: Galera, eu tive que adicionar o meu IP para voltar a conectar
+05/11/2025 22:49 - Suriel Dos Reis: <Mídia oculta>
+05/11/2025 23:23 - Suriel Dos Reis: Poderia passar os arquivos para testar aqui, por que aqui mesmo com as alterações executadas não está dando certo.
+06/11/2025 00:17 - Suriel Dos Reis: Parece que por aqui deu certo
+06/11/2025 00:17 - Suriel Dos Reis: <Mídia oculta>
+06/11/2025 00:17 - Suriel Dos Reis: Guilherme, obrigado! Seus arquivos foram fundamentais.
+06/11/2025 06:18 - Reis Guilherme 3way: Topzera
+06/11/2025 06:41 - +55 62 8435-5817: bom dia!
+06/11/2025 07:13 - +55 62 8435-5817: show de bola
+06/11/2025 09:22 - 3way Academy: Bom dia, pessoal
+06/11/2025 09:23 - 3way Academy: Segue o link da aula 32 - https://youtu.be/g0y5Qyg1aDg
+06/11/2025 09:23 - 3way Academy: Na segunda finalizaremos os testes de rotas e colocaremos o front end que foi passado para funcionar.
+06/11/2025 09:25 - 3way Academy: A partir daí, será necessário que já esteja rodando o dashboard de vocês no React já como layout, conforme orientação já passada e que reenvio abaixo:
+06/11/2025 09:25 - 3way Academy: <Mídia oculta>
+06/11/2025 09:25 - 3way Academy: Qualquer dúvida estarei a disposição
+06/11/2025 09:26 - 3way Academy: Reforço também, a necessidade da leitura dos códigos do front end já passado, pois facilitará na migração do mesmo
+06/11/2025 09:46 - Suriel Dos Reis: Elisaudo, este print pode significar que o comando foi executado com sucesso? Como saber se os registros foram incluídos? <Mensagem editada>
+06/11/2025 09:48 - 3way Academy: Entre no banco de dados. MongoDB Atlas para verificar as mudança. Mas a mensagem de ok é o retorno esperado
+06/11/2025 09:49 - 3way Academy: Na próxima aula veremos todos os detalhes
+10/11/2025 18:16 - +55 62 8435-5817: Olá turma! Hoje tenho um imprevisto e não poderei paeticipar da aula de hoje.
+10/11/2025 18:16 - +55 62 8435-5817: @⁨3way Academy⁩ assisitrei a aula para me atualizar amanhã
+10/11/2025 18:17 - +55 62 8435-5817: trabalho chama
+10/11/2025 18:17 - +55 62 8435-5817: ótima aula a todos
+10/11/2025 19:35 - 3way Academy: npm install cors
+10/11/2025 19:37 - 3way Academy: const cors = require('cors');
+10/11/2025 19:37 - 3way Academy: app.use(cors({ origin: true, credentials: true }));
+10/11/2025 19:46 - 3way Academy: Utilizem o código a seguir para apoio na inclusão do dashboard de vocês no projeto livraria MERN:
+10/11/2025 19:46 - 3way Academy: https://github.com/Elisaudo/sidebar-menu-react-crud-livraria.git
+10/11/2025 20:37 - 3way Academy: Favor fazer o cadastro de vocês no site Render, para fazermos o deploy da aplicação: https://render.com/
+10/11/2025 20:59 - Messias Neto Colega 3Way Full Stack JavaScript: galera, alguém pode me enviar pfv o arquivo do projeto livraria? fiz bagunça aqui e sem querer apaguei ele
+10/11/2025 23:28 - Suriel Dos Reis: Uai Cabrom, ainda está precisando do projeto?
+11/11/2025 08:35 - Messias Neto Colega 3Way Full Stack JavaScript: tô demais, eu apaguei ele ontem
+11/11/2025 09:21 - 3way Academy: <Mídia oculta>
+11/11/2025 09:42 - 3way Academy: Bom dia, pessoal
+11/11/2025 09:42 - 3way Academy: Segue o link da aula 33 - https://youtu.be/LWCiQfqil64
+11/11/2025 09:44 - 3way Academy: ATENÇÃO: Lembrando que na quarta-feira a migração do dashboard do projeto final, para o dashboard que você fizeram já deverá estar pronta. Já passamos as orientações e o código do Github para apoio
+11/11/2025 09:44 - 3way Academy: Qualquer dúvida estou a disposição
+11/11/2025 09:54 - 3way Academy: Lembrem que a estrutura de pasta deve ser mantida, conforme projeto original. Com repositório no Github. Veja estrutura a seguir:
+11/11/2025 09:54 - 3way Academy: <Mídia oculta>
+11/11/2025 09:54 - 3way Academy: Mensagem apagada
+11/11/2025 09:55 - 3way Academy: Onde PROJETO-LIVRARIA-MERN é a pasta raiz do projeto e também o nome do repositório no GITHUB.
+11/11/2025 09:56 - 3way Academy: Dentro do repositório / pasta raiz deveremos ter mais 2 pasta, que são: client e server, igual está na figura acima
+11/11/2025 09:57 - 3way Academy: Não pode ter subpastas dentro das pastas client e server, a não ser as pastas relacionadas ao projeto
+11/11/2025 09:58 - 3way Academy: Onde está PROJETO-LIVRARIA-MERN, pode ser o nome que vocês escolheram, mas a estrutura deve ser mantida
+11/11/2025 09:59 - 3way Academy: Esta estrutura é obrigatória, pois com ela faremos o deploy da aplicação no RENDER
+11/11/2025 09:59 - 3way Academy: Favor fazer o cadastro de vocês no site Render, para fazermos o deploy da aplicação: https://render.com/
+11/11/2025 12:13 - Suriel Dos Reis: @⁨Messias Neto Colega 3Way Full Stack JavaScript⁩ , segue compartilhamento, veja se é isso que está precisando.
+11/11/2025 12:13 - Suriel Dos Reis: https://netorg11259700-my.sharepoint.com/:f:/g/personal/suriel_reis_ibrowse-sds_com_br/ElqrhD1SljpFseSjx2Aa-8EBZ9mLBhxA-ZVKd88gXo4aAg?e=AAvBK4
+11/11/2025 12:28 - Messias Neto Colega 3Way Full Stack JavaScript: chegando em casa vejo
+11/11/2025 19:34 - +55 62 8435-5817: boa noite!!! Eita a coisa rendeu de ontem para hoje!! Assistindo a aula agora!!
+11/11/2025 19:41 - Suriel Dos Reis: Precisando de alguma coisa tmj.
+11/11/2025 19:58 - +55 62 8435-5817: vlw!!
+12/11/2025 08:52 - +55 62 8435-5817: Bom dia
+12/11/2025 08:52 - +55 62 8435-5817: todos conseguiram, migrar o dashboard?
+12/11/2025 08:53 - Messias Neto Colega 3Way Full Stack JavaScript: bom dia
+12/11/2025 08:53 - Messias Neto Colega 3Way Full Stack JavaScript: eu sim
+12/11/2025 08:53 - +55 62 8435-5817: estou com dificuldades nessa migração
+12/11/2025 08:53 - Messias Neto Colega 3Way Full Stack JavaScript: em uma vc já fez né?
+12/11/2025 08:54 - +55 62 8435-5817: como assim?
+12/11/2025 08:54 - Reis Guilherme 3way: Eu não consegui
+12/11/2025 08:55 - +55 62 8435-5817: alguém tem um hora no da aí pra orientar os desesperados? kkkkkk
+12/11/2025 08:58 - +55 62 8435-5817: fiquei na duvida sobre qual dashboard migrar, o que tem oa cards ou o segu do que tem as rotas e não conteúdo no container. @⁨Messias Neto Colega 3Way Full Stack JavaScript⁩  o que migrou foi o que te enviei?
+12/11/2025 08:59 - +55 62 8435-5817: mandem o print de qual é pra migrar pv
+12/11/2025 09:01 - Messias Neto Colega 3Way Full Stack JavaScript: <Mídia oculta>
+12/11/2025 10:18 - 3way Academy: Existem 2 orientações. A primeira foi passada no final do projeto Memegenerator para migrar o dashboard feito em HTML, GRID CSS para React.js. A segunda orientação foi data após finalizamos o hands on de React Router...antes desta orientação foi passado também material ensinando como fazer layout / rotas utilizando o Reacta Router.
+12/11/2025 10:20 - 3way Academy: Após todas estas etapas, na última aula passamos um código de apoio para que fosse utilizado / inserido o dashboard react / layout no projeto final de vocês
+12/11/2025 10:21 - 3way Academy: <Mídia oculta>
+12/11/2025 10:21 - 3way Academy: <Mídia oculta>
+12/11/2025 10:22 - 3way Academy: https://github.com/Elisaudo/sidebar-menu-react-crud-livraria.git
+12/11/2025 10:22 - 3way Academy: <Mídia oculta>
+12/11/2025 13:51 - +55 62 8435-5817: Elisaudo, tô tentando fazer mas acho que vou conseguir finali,ar até a hora da aula, em função das atividades do trabaalho!
+12/11/2025 13:52 - +55 62 8435-5817: talvez nem consiga participar da aula! Mas vou acelerar pelo menos para participar da aula ok?
+12/11/2025 13:52 - +55 62 8435-5817: <Mídia oculta>
+12/11/2025 13:52 - +55 62 8435-5817: trabalho tá sugando á alma
+12/11/2025 13:52 - +55 62 8435-5817: kk
+12/11/2025 13:52 - +55 62 8435-5817: mas é temporário
+12/11/2025 13:53 - 3way Academy: Ok. Hoje vamos ver a parte de deploy da aplicação
+12/11/2025 13:55 - Messias Neto Colega 3Way Full Stack JavaScript: boa tarde
+12/11/2025 13:55 - Messias Neto Colega 3Way Full Stack JavaScript: também não estarei hoje na aula
+12/11/2025 13:56 - Messias Neto Colega 3Way Full Stack JavaScript: mais irei me atualizar amanhã com a aula gravada
+12/11/2025 13:59 - +55 62 8435-5817: ótimo vou fazer o possível para partivipar da aula
+12/11/2025 18:03 - +55 62 8435-5817: Pessoal infelizmente não poderei participar da aula de hoje, o trabalho me chama
+12/11/2025 18:04 - +55 62 8435-5817: mas assitirei a aula assim que disponível e executarei as atividadws pendentes
+12/11/2025 19:30 - 3way Academy: VITE_API_URL=http://localhost:8082
+12/11/2025 19:33 - 3way Academy: import.meta.env.VITE_API_URL
+12/11/2025 19:35 - 3way Academy: const apiUrl = import.meta.env.VITE_API_URL;
+12/11/2025 19:37 - 3way Academy: `${apiUrl}/api/books`
+12/11/2025 19:40 - 3way Academy: `${apiUrl}/api/books/${id}`
+12/11/2025 19:57 - 3way Academy: {
+  "name": "mern-livraria-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "install-server": "cd server && npm install",
+    "start-server": "cd server && node app.js",
+    "install-client": "cd client && npm install",
+    "build-client": "cd client && npm run build",
+    "start-client": "cd client && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
+12/11/2025 20:01 - 3way Academy: npm install dotenv
+12/11/2025 20:03 - 3way Academy: require('dotenv').config();
+12/11/2025 20:04 - 3way Academy: MONGODB_URI=mongodb+srv://livraria:livraria123@cluster0.h89cqy4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+PORT = 8082
+12/11/2025 20:07 - 3way Academy: require('dotenv').config();
+12/11/2025 20:09 - 3way Academy: const uri = process.env.MONGODB_URI;
+12/11/2025 20:12 - 3way Academy: node_modules
+.env
+12/11/2025 20:33 - 3way Academy: ● Runtime: Node 
+● Build Command: npm run install-server 
+● Start Command: npm run start-server
+12/11/2025 21:03 - Suriel Dos Reis: https://github.com/Suriel-dos-Reis/Projeto_Livraria_MERN.git
+12/11/2025 21:05 - 3way Academy: ● Runtime: Node 
+● Build Command: npm run install-client && npm run build-client 
+● Publish directory: ./client/dist
+12/11/2025 21:39 - Reis Guilherme 3way: https://github.com/guilhermereisl/projeto-mern-livraria
+12/11/2025 22:50 - Suriel Dos Reis: Elisaudo, o Client tem o .env , mas ele está no gitignore, como é que ele vai subir para o git com a nova URL do server?
+13/11/2025 08:14 - 3way Academy: Não precisa, pois no Render colocamos esta informação nas variáveis de ambiente.
+13/11/2025 08:43 - 3way Academy: @⁨Suriel Dos Reis⁩ Vi aqui que tem um arquivo que espúrio db.json dentro da pasta components do client. Favor exclui-lo e tente fazer o deploy
+13/11/2025 08:53 - 3way Academy: @⁨Reis Guilherme 3way⁩ Até agora a única inconsistência foi os nomes diferentes entre a pasta e o nome no arquivo package.json, como mostra na figura. Coloque dentro do arquivo package.json, igual se escreveu na pasta raiz. Delete também o arquivo db.json dentro da pasta components
+13/11/2025 08:54 - 3way Academy: <Mídia oculta>
+13/11/2025 09:16 - 3way Academy: Bom dia, pessoal
+13/11/2025 09:16 - 3way Academy: Segue o link da aula 34 - https://youtu.be/kxe1z98z7Lg
+13/11/2025 09:16 - 3way Academy: Segue também o material de deploy no Render
+13/11/2025 09:17 - 3way Academy: <Mídia oculta>
